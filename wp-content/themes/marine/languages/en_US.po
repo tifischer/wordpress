@@ -1,0 +1,5927 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Marine\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-29 09:25+0100\n"
+"PO-Revision-Date: 2015-04-29 09:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: Medialayout\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: marine\n"
+
+#: marine/sidebar-footer-2.php:119 marine/template-contact-form-2.php:15
+#: marine/template-contact-form-ext.php:28 marine/inc/shortcodes.php:601
+#: marine/inc/shortcodes_vc.php:712 marine/inc/theme-options.php:96
+#: marine/inc/shortcodes/shortcodes.php:554
+#: marine/inc/shortcodes/shortcodes_vc.php:624
+msgid "Contact Form"
+msgstr ""
+
+#: marine/template-portfolio-full-width.php:28
+msgid "Our Work"
+msgstr ""
+
+# @ mk_framework
+#: marine/template-portfolio-full-width.php:31
+#: marine/template-portfolio-4-col.php:36
+#: marine/template-portfolio-3-col.php:36 marine/template-faq.php:36
+#: marine/template-portfolio-1-col-sidebar.php:23
+#: marine/template-portfolio-1-col.php:40
+#: marine/template-portfolio-2-col.php:37
+#: marine/inc/shortcodes/featured_projects_2.php:104
+#: marine/inc/shortcodes/featured_projects_3.php:121
+#: marine/inc/shortcodes/featured_projects_4.php:93
+#: marine/woocommerce/archive-product.php:52
+msgid "All"
+msgstr ""
+
+# @ mk_framework
+#: marine/comments.php:24
+#: marine/inc/widgets/WP_Multi_Posts_Widget.class.php:60
+#: marine/inc/shortcodes/multi_posts.php:28
+msgid "Comments"
+msgstr ""
+
+#: marine/comments.php:27 marine/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: marine/comments.php:28 marine/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: marine/comments.php:29 marine/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: marine/comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: marine/comments.php:53
+msgid "Leave A Reply Form"
+msgstr ""
+
+#: marine/comments.php:59 marine/template-contact-form-2.php:20
+#: marine/template-contact-form-ext.php:32
+msgid "Name*"
+msgstr ""
+
+#: marine/comments.php:66 marine/template-contact-form-2.php:21
+#: marine/template-contact-form-ext.php:33
+msgid "E-mail*"
+msgstr ""
+
+#: marine/comments.php:72 marine/template-contact-form-2.php:22
+#: marine/template-contact-form-ext.php:34 marine/inc/shortcodes.php:161
+#: marine/inc/shortcodes_vc.php:122 marine/inc/shortcodes/shortcodes.php:159
+#: marine/inc/shortcodes/shortcodes_vc.php:122
+msgid "Message"
+msgstr ""
+
+#: marine/template-blog-list.php:71 marine/template-blog-alternate.php:68
+#: marine/template-blog-grid.php:66
+msgid "Loading posts"
+msgstr ""
+
+#: marine/template-blog-list.php:71 marine/template-portfolio-4-col.php:127
+#: marine/index.php:110 marine/index.php:129
+#: marine/template-blog-timeline.php:143 marine/template-blog-alternate.php:68
+#: marine/template-portfolio-3-col.php:131 marine/template-blog-grid.php:66
+#: marine/template-portfolio-1-col.php:154
+#: marine/template-portfolio-2-col.php:127
+#: marine/inc/shortcodes/blogtimeline.php:25
+#: marine/woocommerce/loop/pagination.php:23
+msgid "Load More"
+msgstr ""
+
+#: marine/template-portfolio-4-col.php:35
+#: marine/template-portfolio-3-col.php:35
+#: marine/template-portfolio-1-col-sidebar.php:22
+#: marine/template-portfolio-1-col.php:39
+#: marine/template-portfolio-2-col.php:36
+msgid "Sort Portfolio"
+msgstr ""
+
+#: marine/template-portfolio-4-col.php:127 marine/index.php:129
+#: marine/template-portfolio-3-col.php:131
+#: marine/template-portfolio-1-col.php:154
+#: marine/template-portfolio-2-col.php:127
+msgid "Loading..."
+msgstr ""
+
+#: marine/index.php:88 marine/template-blog-timeline.php:112
+#: marine/inc/post-date.php:19 marine/inc/Comment_Walker.class.php:52
+#: marine/inc/shortcodes/blogtimeline.php:184
+#: marine/inc/shortcodes/recent_news_big.php:47
+#: marine/inc/shortcodes/recent_news_big.php:64
+#: marine/inc/shortcodes/recent_posts.php:75
+#: marine/inc/post-content/content-quote.php:59
+#: marine/inc/post-content/content-audio.php:72
+#: marine/inc/post-content/content-gallery.php:79
+#: marine/inc/post-content/content-video.php:74
+#: marine/inc/post-content/content.php:65
+msgid "By"
+msgstr ""
+
+# @ mk_framework
+#: marine/404.php:21
+msgid "404"
+msgstr ""
+
+#: marine/404.php:22
+msgid "Oops, This page couldn't be found!"
+msgstr ""
+
+#: marine/404.php:23
+msgid "Go back home"
+msgstr ""
+
+#: marine/404.php:42
+msgid "Search Our Website"
+msgstr ""
+
+#: marine/404.php:44
+msgid "Can't find what you need? Take a moment and do a search below!"
+msgstr ""
+
+#: marine/functions.php:247
+msgid "Primary Menu"
+msgstr ""
+
+#: marine/functions.php:248
+msgid "Footer Menu"
+msgstr ""
+
+#: marine/functions.php:249
+msgid "Shop Header"
+msgstr ""
+
+#: marine/functions.php:366 marine/functions.php:367
+msgid "Portfolio"
+msgstr ""
+
+#: marine/functions.php:372
+msgid "portfolio-item"
+msgstr ""
+
+# @ mk_framework
+#: marine/functions.php:388 marine/functions.php:412 marine/functions.php:485
+#: marine/functions.php:523
+msgid "Categories"
+msgstr ""
+
+#: marine/functions.php:389 marine/functions.php:413 marine/functions.php:486
+msgid "Category"
+msgstr ""
+
+#: marine/functions.php:395 marine/functions.php:396
+msgid "FAQ"
+msgstr ""
+
+#: marine/functions.php:419 marine/functions.php:431
+msgid "Team Members"
+msgstr ""
+
+#: marine/functions.php:420
+msgid "Team Member"
+msgstr ""
+
+#: marine/functions.php:421 marine/functions.php:452 marine/functions.php:495
+#: marine/framework/banner-builder.php:17
+msgid "Add New"
+msgstr ""
+
+#: marine/functions.php:422
+msgid "Add New Team Member"
+msgstr ""
+
+#: marine/functions.php:423
+msgid "Edit Team Member"
+msgstr ""
+
+#: marine/functions.php:424
+msgid "New Team Member"
+msgstr ""
+
+#: marine/functions.php:425
+msgid "All Team Members"
+msgstr ""
+
+#: marine/functions.php:426
+msgid "View Team Member"
+msgstr ""
+
+#: marine/functions.php:427
+msgid "Search Team Members"
+msgstr ""
+
+#: marine/functions.php:428
+msgid "No team members found"
+msgstr ""
+
+#: marine/functions.php:429
+msgid "No team member found in Trash"
+msgstr ""
+
+#: marine/functions.php:450 marine/functions.php:462
+#: marine/inc/shortcodes.php:2411 marine/inc/shortcodes_vc.php:3196
+#: marine/inc/widgets/WP_Testimonials_Widget.class.php:18
+#: marine/inc/shortcodes/shortcodes.php:2208
+#: marine/inc/shortcodes/shortcodes_vc.php:2907
+msgid "Testimonials"
+msgstr ""
+
+#: marine/functions.php:451 marine/inc/shortcodes.php:2396
+#: marine/inc/shortcodes_vc.php:3172 marine/inc/shortcodes/shortcodes.php:2193
+#: marine/inc/shortcodes/shortcodes_vc.php:2883
+msgid "Testimonial"
+msgstr ""
+
+#: marine/functions.php:453
+msgid "Add New Testimonials"
+msgstr ""
+
+#: marine/functions.php:454
+msgid "Edit Testimonials"
+msgstr ""
+
+#: marine/functions.php:455
+msgid "New Testimonials"
+msgstr ""
+
+#: marine/functions.php:456
+msgid "All Testimonials"
+msgstr ""
+
+#: marine/functions.php:457
+msgid "View Testimonials"
+msgstr ""
+
+#: marine/functions.php:458
+msgid "Search Testimonials"
+msgstr ""
+
+#: marine/functions.php:459
+msgid "No Testimonials found"
+msgstr ""
+
+#: marine/functions.php:460
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: marine/functions.php:493 marine/functions.php:494 marine/functions.php:505
+msgid "Food Menu"
+msgstr ""
+
+#: marine/functions.php:496
+msgid "Add New Item"
+msgstr ""
+
+#: marine/functions.php:497
+msgid "Edit Item"
+msgstr ""
+
+#: marine/functions.php:498
+msgid "New Items"
+msgstr ""
+
+#: marine/functions.php:499
+msgid "All Items"
+msgstr ""
+
+#: marine/functions.php:500
+msgid "View Items"
+msgstr ""
+
+#: marine/functions.php:501
+msgid "Search Items"
+msgstr ""
+
+#: marine/functions.php:502
+msgid "No Items found"
+msgstr ""
+
+#: marine/functions.php:503
+msgid "No Items found in Trash"
+msgstr ""
+
+#: marine/functions.php:568
+msgid "Enter team member name here"
+msgstr ""
+
+#: marine/functions.php:795
+msgid "Main Sidebar"
+msgstr ""
+
+#: marine/functions.php:805
+msgid "Footer Area"
+msgstr ""
+
+#: marine/functions.php:816
+msgid "Footer 2 Area"
+msgstr ""
+
+#: marine/functions.php:826 marine/inc/top.php:33
+#: marine/inc/template-tags.php:1058 marine/inc/template-tags.php:1089
+msgid "Shop"
+msgstr ""
+
+#: marine/functions.php:835 marine/functions.php:843 marine/functions.php:851
+msgid "Shop Footer Area"
+msgstr ""
+
+# @ mk_framework
+#: marine/functions.php:1037 marine/inc/shortcodes.php:1450
+#: marine/inc/shortcodes.php:2286 marine/inc/shortcodes.php:2422
+#: marine/inc/meta-boxes.php:611 marine/inc/meta-boxes.php:639
+#: marine/inc/meta-boxes.php:676 marine/inc/meta-boxes.php:723
+#: marine/inc/meta-boxes.php:777 marine/inc/meta-boxes.php:808
+#: marine/inc/meta-boxes.php:984 marine/inc/meta-boxes.php:1012
+#: marine/inc/meta-boxes.php:1040 marine/inc/meta-boxes.php:1121
+#: marine/inc/meta-boxes.php:1144 marine/inc/meta-boxes.php:1178
+#: marine/inc/meta-boxes.php:1211 marine/inc/meta-boxes.php:1288
+#: marine/inc/meta-boxes.php:1316 marine/inc/shortcodes_vc.php:1841
+#: marine/inc/shortcodes_vc.php:3036 marine/inc/shortcodes_vc.php:3217
+#: marine/inc/theme-options.php:2114 marine/inc/shortcodes/shortcodes.php:2093
+#: marine/inc/shortcodes/shortcodes_vc.php:2758
+msgid "Default"
+msgstr ""
+
+#: marine/functions.php:1043
+msgid "Style 1 (default)"
+msgstr ""
+
+#: marine/functions.php:1048 marine/inc/shortcodes.php:685
+#: marine/inc/shortcodes.php:1866 marine/inc/shortcodes.php:1982
+#: marine/inc/meta-boxes.php:818 marine/inc/shortcodes_vc.php:818
+#: marine/inc/shortcodes_vc.php:2408 marine/inc/shortcodes_vc.php:2572
+#: marine/inc/shortcodes_vc.php:2818 marine/inc/theme-options.php:440
+#: marine/inc/theme-options.php:478 marine/inc/shortcodes/shortcodes.php:638
+#: marine/inc/shortcodes/shortcodes.php:1673
+#: marine/inc/shortcodes/shortcodes.php:1789
+#: marine/inc/shortcodes/shortcodes_vc.php:730
+#: marine/inc/shortcodes/shortcodes_vc.php:2130
+#: marine/inc/shortcodes/shortcodes_vc.php:2294
+#: marine/inc/shortcodes/shortcodes_vc.php:2540
+msgid "Style 2"
+msgstr ""
+
+#: marine/functions.php:1053 marine/inc/shortcodes.php:686
+#: marine/inc/meta-boxes.php:823 marine/inc/shortcodes_vc.php:819
+#: marine/inc/theme-options.php:445 marine/inc/theme-options.php:483
+#: marine/inc/shortcodes/shortcodes.php:639
+#: marine/inc/shortcodes/shortcodes_vc.php:731
+msgid "Style 3"
+msgstr ""
+
+#: marine/functions.php:1058
+msgid "Style 4"
+msgstr ""
+
+#: marine/functions.php:1063
+msgid "Style 5"
+msgstr ""
+
+#: marine/functions.php:1068
+msgid "Style 6"
+msgstr ""
+
+#: marine/functions.php:1073
+msgid "Style 7"
+msgstr ""
+
+#: marine/functions.php:1079
+msgid "Style 8 (side menu)"
+msgstr ""
+
+#: marine/functions.php:1084
+msgid "Style 9 (side menu)"
+msgstr ""
+
+#: marine/functions.php:1089
+msgid "Style 10 (side menu)"
+msgstr ""
+
+#: marine/functions.php:1094
+msgid "Style 11 (side menu)"
+msgstr ""
+
+#: marine/functions.php:1099
+msgid "Style 12"
+msgstr ""
+
+#: marine/functions.php:1141 marine/functions.php:1144
+#: marine/framework/page-builder.php:547
+msgid "Page builder"
+msgstr ""
+
+#: marine/functions.php:1145
+msgid "Slider area content"
+msgstr ""
+
+#: marine/functions.php:1246 marine/template-contact-form-2.php:23
+#: marine/template-contact-form-ext.php:34
+msgid "Send Message"
+msgstr ""
+
+#: marine/functions.php:1248 marine/template-contact-form-2.php:25
+#: marine/template-contact-form-ext.php:35 marine/inc/shortcodes/form.php:25
+msgid "Clear"
+msgstr ""
+
+#: marine/functions.php:1277
+msgid "is required"
+msgstr ""
+
+#: marine/functions.php:1282
+msgid "Email is invalid"
+msgstr ""
+
+#: marine/functions.php:1298
+msgid "Query"
+msgstr ""
+
+#: marine/functions.php:1303
+msgid "Message Sent"
+msgstr ""
+
+#: marine/functions.php:1306
+msgid "An Error occured."
+msgstr ""
+
+#: marine/functions.php:1356
+msgid "Please fill all required fields."
+msgstr ""
+
+#: marine/functions.php:1361
+msgid "Please check your email."
+msgstr ""
+
+#: marine/functions.php:1369
+msgid "Email sent. Thank you for contacting us"
+msgstr ""
+
+#: marine/functions.php:1371
+msgid "Server error. Pease try again later."
+msgstr ""
+
+#: marine/functions.php:1573
+msgid "Now:"
+msgstr ""
+
+#: marine/functions.php:1627 marine/inc/meta-boxes.php:760
+msgid "Slider"
+msgstr ""
+
+#: marine/no-results.php:12
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+# @ mk_framework
+#: marine/page.php:24 marine/content-single.php:104
+msgid "Pages:"
+msgstr ""
+
+#: marine/footer.php:112 marine/inc/header-8.php:62
+#: marine/inc/header-10.php:62 marine/inc/header-9.php:62
+#: marine/inc/header-11.php:62
+msgid "No Tweets to show"
+msgstr ""
+
+#: marine/header.php:36
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: marine/content-single.php:73
+#: marine/inc/timeline-content/content-audio.php:34
+#: marine/inc/blog-types/alternate.php:92
+#: marine/inc/blog-types/alternate.php:230 marine/inc/blog-types/list.php:57
+#: marine/inc/post-content/content-audio.php:34
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+#: marine/content-single.php:100 marine/inc/post-info.php:14
+#: marine/inc/shortcodes/recent_posts.php:77
+#: marine/inc/blog-types/alternate.php:146
+#: marine/inc/blog-types/alternate.php:278 marine/inc/blog-types/list.php:101
+#: marine/inc/post-content/content-quote.php:64
+#: marine/inc/post-content/content-audio.php:77
+#: marine/inc/post-content/content-gallery.php:84
+#: marine/inc/post-content/content-video.php:79
+#: marine/inc/post-content/content.php:70
+msgid "No comments"
+msgstr ""
+
+#: marine/content-single.php:100 marine/inc/post-info.php:14
+#: marine/inc/shortcodes/recent_posts.php:77
+#: marine/inc/blog-types/alternate.php:146
+#: marine/inc/blog-types/alternate.php:278 marine/inc/blog-types/list.php:101
+#: marine/inc/post-content/content-quote.php:64
+#: marine/inc/post-content/content-audio.php:77
+#: marine/inc/post-content/content-gallery.php:84
+#: marine/inc/post-content/content-video.php:79
+#: marine/inc/post-content/content.php:70
+msgid "1 comment"
+msgstr ""
+
+#: marine/content-single.php:100 marine/inc/post-info.php:14
+#: marine/inc/shortcodes/recent_posts.php:77
+#: marine/inc/blog-types/alternate.php:146
+#: marine/inc/blog-types/alternate.php:278 marine/inc/blog-types/list.php:101
+#: marine/inc/post-content/content-quote.php:64
+#: marine/inc/post-content/content-audio.php:77
+#: marine/inc/post-content/content-gallery.php:84
+#: marine/inc/post-content/content-video.php:79
+#: marine/inc/post-content/content.php:70
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: marine/template-portfolio-1-col.php:140
+#: marine/inc/portfolio-single/single-basic.php:49
+msgid "Work by"
+msgstr ""
+
+#: marine/inc/shortcodes.php:84 marine/inc/shortcodes/shortcodes.php:82
+msgid "Accordion"
+msgstr ""
+
+#: marine/inc/shortcodes.php:92 marine/inc/shortcodes/shortcodes.php:90
+msgid "Open first"
+msgstr ""
+
+#: marine/inc/shortcodes.php:95 marine/inc/shortcodes.php:439
+#: marine/inc/shortcodes.php:533 marine/inc/shortcodes.php:543
+#: marine/inc/shortcodes.php:1305 marine/inc/shortcodes.php:1360
+#: marine/inc/shortcodes.php:1370 marine/inc/shortcodes.php:1397
+#: marine/inc/shortcodes.php:1785 marine/inc/shortcodes.php:1795
+#: marine/inc/shortcodes.php:1815 marine/inc/shortcodes.php:1825
+#: marine/inc/shortcodes_vc.php:115 marine/inc/shortcodes/shortcodes.php:93
+#: marine/inc/shortcodes/shortcodes.php:392
+#: marine/inc/shortcodes/shortcodes.php:486
+#: marine/inc/shortcodes/shortcodes.php:496
+#: marine/inc/shortcodes/shortcodes.php:1193
+#: marine/inc/shortcodes/shortcodes.php:1248
+#: marine/inc/shortcodes/shortcodes.php:1258
+#: marine/inc/shortcodes/shortcodes.php:1285
+#: marine/inc/shortcodes/shortcodes.php:1602
+#: marine/inc/shortcodes/shortcodes.php:1622
+#: marine/inc/shortcodes/shortcodes.php:1632
+#: marine/inc/shortcodes/shortcodes_vc.php:115
+msgid "yes"
+msgstr ""
+
+#: marine/inc/shortcodes.php:96 marine/inc/shortcodes.php:438
+#: marine/inc/shortcodes.php:532 marine/inc/shortcodes.php:542
+#: marine/inc/shortcodes.php:1306 marine/inc/shortcodes.php:1359
+#: marine/inc/shortcodes.php:1369 marine/inc/shortcodes.php:1398
+#: marine/inc/shortcodes.php:1784 marine/inc/shortcodes.php:1794
+#: marine/inc/shortcodes.php:1814 marine/inc/shortcodes.php:1824
+#: marine/inc/shortcodes_vc.php:116 marine/inc/shortcodes/shortcodes.php:94
+#: marine/inc/shortcodes/shortcodes.php:391
+#: marine/inc/shortcodes/shortcodes.php:485
+#: marine/inc/shortcodes/shortcodes.php:495
+#: marine/inc/shortcodes/shortcodes.php:1194
+#: marine/inc/shortcodes/shortcodes.php:1247
+#: marine/inc/shortcodes/shortcodes.php:1257
+#: marine/inc/shortcodes/shortcodes.php:1286
+#: marine/inc/shortcodes/shortcodes.php:1601
+#: marine/inc/shortcodes/shortcodes.php:1621
+#: marine/inc/shortcodes/shortcodes.php:1631
+#: marine/inc/shortcodes/shortcodes_vc.php:116
+msgid "no"
+msgstr ""
+
+#: marine/inc/shortcodes.php:100 marine/inc/shortcodes.php:1490
+#: marine/inc/shortcodes.php:1723 marine/inc/shortcodes.php:2183
+#: marine/inc/shortcodes/shortcodes.php:98
+#: marine/inc/shortcodes/shortcodes.php:1307
+#: marine/inc/shortcodes/shortcodes.php:1540
+#: marine/inc/shortcodes/shortcodes.php:1990
+#: marine/framework/page-builder.php:111
+msgid "Add Item"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:105 marine/inc/shortcodes.php:235
+#: marine/inc/shortcodes.php:490 marine/inc/shortcodes.php:725
+#: marine/inc/shortcodes.php:756 marine/inc/shortcodes.php:955
+#: marine/inc/shortcodes.php:1019 marine/inc/shortcodes.php:1107
+#: marine/inc/shortcodes.php:1138 marine/inc/shortcodes.php:1189
+#: marine/inc/shortcodes.php:1438 marine/inc/shortcodes.php:1514
+#: marine/inc/shortcodes.php:1612 marine/inc/shortcodes.php:1730
+#: marine/inc/shortcodes.php:1925 marine/inc/shortcodes.php:2010
+#: marine/inc/shortcodes.php:2168 marine/inc/shortcodes.php:2212
+#: marine/inc/shortcodes.php:2383 marine/inc/shortcodes_vc.php:226
+#: marine/inc/shortcodes_vc.php:576 marine/inc/shortcodes_vc.php:867
+#: marine/inc/shortcodes_vc.php:912 marine/inc/shortcodes_vc.php:1170
+#: marine/inc/shortcodes_vc.php:1261 marine/inc/shortcodes_vc.php:1388
+#: marine/inc/shortcodes_vc.php:1434 marine/inc/shortcodes_vc.php:1504
+#: marine/inc/shortcodes_vc.php:1823 marine/inc/shortcodes_vc.php:1942
+#: marine/inc/shortcodes_vc.php:2215 marine/inc/shortcodes_vc.php:2485
+#: marine/inc/shortcodes_vc.php:2607 marine/inc/shortcodes_vc.php:2861
+#: marine/inc/shortcodes_vc.php:2929 marine/inc/shortcodes/shortcodes.php:103
+#: marine/inc/shortcodes/shortcodes.php:233
+#: marine/inc/shortcodes/shortcodes.php:443
+#: marine/inc/shortcodes/shortcodes.php:662
+#: marine/inc/shortcodes/shortcodes.php:693
+#: marine/inc/shortcodes/shortcodes.php:892
+#: marine/inc/shortcodes/shortcodes.php:956
+#: marine/inc/shortcodes/shortcodes.php:995
+#: marine/inc/shortcodes/shortcodes.php:1026
+#: marine/inc/shortcodes/shortcodes.php:1077
+#: marine/inc/shortcodes/shortcodes.php:1331
+#: marine/inc/shortcodes/shortcodes.php:1429
+#: marine/inc/shortcodes/shortcodes.php:1547
+#: marine/inc/shortcodes/shortcodes.php:1732
+#: marine/inc/shortcodes/shortcodes.php:1817
+#: marine/inc/shortcodes/shortcodes.php:1975
+#: marine/inc/shortcodes/shortcodes.php:2019
+#: marine/inc/shortcodes/shortcodes.php:2180
+#: marine/inc/shortcodes/shortcodes_vc.php:226
+#: marine/inc/shortcodes/shortcodes_vc.php:488
+#: marine/inc/shortcodes/shortcodes_vc.php:759
+#: marine/inc/shortcodes/shortcodes_vc.php:804
+#: marine/inc/shortcodes/shortcodes_vc.php:1062
+#: marine/inc/shortcodes/shortcodes_vc.php:1153
+#: marine/inc/shortcodes/shortcodes_vc.php:1210
+#: marine/inc/shortcodes/shortcodes_vc.php:1256
+#: marine/inc/shortcodes/shortcodes_vc.php:1326
+#: marine/inc/shortcodes/shortcodes_vc.php:1675
+#: marine/inc/shortcodes/shortcodes_vc.php:1948
+#: marine/inc/shortcodes/shortcodes_vc.php:2207
+#: marine/inc/shortcodes/shortcodes_vc.php:2329
+#: marine/inc/shortcodes/shortcodes_vc.php:2583
+#: marine/inc/shortcodes/shortcodes_vc.php:2651
+msgid "Title"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:110 marine/inc/shortcodes.php:183
+#: marine/inc/shortcodes.php:741 marine/inc/shortcodes.php:832
+#: marine/inc/shortcodes.php:876 marine/inc/shortcodes.php:1405
+#: marine/inc/shortcodes.php:1466 marine/inc/shortcodes.php:1525
+#: marine/inc/shortcodes.php:1707 marine/inc/shortcodes.php:2334
+#: marine/inc/shortcodes.php:2388 marine/inc/shortcodes.php:2467
+#: marine/inc/shortcodes_vc.php:83 marine/inc/shortcodes_vc.php:139
+#: marine/inc/shortcodes_vc.php:153 marine/inc/shortcodes_vc.php:170
+#: marine/inc/shortcodes_vc.php:201 marine/inc/shortcodes_vc.php:277
+#: marine/inc/shortcodes_vc.php:365 marine/inc/shortcodes_vc.php:453
+#: marine/inc/shortcodes_vc.php:508 marine/inc/shortcodes_vc.php:715
+#: marine/inc/shortcodes_vc.php:806 marine/inc/shortcodes_vc.php:888
+#: marine/inc/shortcodes_vc.php:905 marine/inc/shortcodes_vc.php:980
+#: marine/inc/shortcodes_vc.php:1001 marine/inc/shortcodes_vc.php:1018
+#: marine/inc/shortcodes_vc.php:1058 marine/inc/shortcodes_vc.php:1075
+#: marine/inc/shortcodes_vc.php:1117 marine/inc/shortcodes_vc.php:1208
+#: marine/inc/shortcodes_vc.php:1311 marine/inc/shortcodes_vc.php:1381
+#: marine/inc/shortcodes_vc.php:1427 marine/inc/shortcodes_vc.php:1777
+#: marine/inc/shortcodes_vc.php:1795 marine/inc/shortcodes_vc.php:1858
+#: marine/inc/shortcodes_vc.php:1956 marine/inc/shortcodes_vc.php:1992
+#: marine/inc/shortcodes_vc.php:2050 marine/inc/shortcodes_vc.php:2136
+#: marine/inc/shortcodes_vc.php:2168 marine/inc/shortcodes_vc.php:2263
+#: marine/inc/shortcodes_vc.php:2365 marine/inc/shortcodes_vc.php:2389
+#: marine/inc/shortcodes_vc.php:2752 marine/inc/shortcodes_vc.php:2776
+#: marine/inc/shortcodes_vc.php:2971 marine/inc/shortcodes_vc.php:2995
+#: marine/inc/shortcodes_vc.php:3091 marine/inc/shortcodes_vc.php:3175
+#: marine/inc/shortcodes_vc.php:3199 marine/inc/shortcodes_vc.php:3266
+#: marine/inc/shortcodes_vc.php:3273 marine/inc/shortcodes_vc.php:3290
+#: marine/inc/shortcodes_vc.php:3341 marine/inc/shortcodes/shortcodes.php:108
+#: marine/inc/shortcodes/shortcodes.php:181
+#: marine/inc/shortcodes/shortcodes.php:678
+#: marine/inc/shortcodes/shortcodes.php:769
+#: marine/inc/shortcodes/shortcodes.php:813
+#: marine/inc/shortcodes/shortcodes.php:1293
+#: marine/inc/shortcodes/shortcodes.php:1342
+#: marine/inc/shortcodes/shortcodes.php:1524
+#: marine/inc/shortcodes/shortcodes.php:2131
+#: marine/inc/shortcodes/shortcodes.php:2185
+#: marine/inc/shortcodes/shortcodes.php:2255
+#: marine/inc/shortcodes/shortcodes_vc.php:83
+#: marine/inc/shortcodes/shortcodes_vc.php:139
+#: marine/inc/shortcodes/shortcodes_vc.php:153
+#: marine/inc/shortcodes/shortcodes_vc.php:170
+#: marine/inc/shortcodes/shortcodes_vc.php:201
+#: marine/inc/shortcodes/shortcodes_vc.php:277
+#: marine/inc/shortcodes/shortcodes_vc.php:365
+#: marine/inc/shortcodes/shortcodes_vc.php:420
+#: marine/inc/shortcodes/shortcodes_vc.php:627
+#: marine/inc/shortcodes/shortcodes_vc.php:718
+#: marine/inc/shortcodes/shortcodes_vc.php:780
+#: marine/inc/shortcodes/shortcodes_vc.php:797
+#: marine/inc/shortcodes/shortcodes_vc.php:872
+#: marine/inc/shortcodes/shortcodes_vc.php:893
+#: marine/inc/shortcodes/shortcodes_vc.php:910
+#: marine/inc/shortcodes/shortcodes_vc.php:950
+#: marine/inc/shortcodes/shortcodes_vc.php:967
+#: marine/inc/shortcodes/shortcodes_vc.php:1009
+#: marine/inc/shortcodes/shortcodes_vc.php:1100
+#: marine/inc/shortcodes/shortcodes_vc.php:1203
+#: marine/inc/shortcodes/shortcodes_vc.php:1249
+#: marine/inc/shortcodes/shortcodes_vc.php:1599
+#: marine/inc/shortcodes/shortcodes_vc.php:1689
+#: marine/inc/shortcodes/shortcodes_vc.php:1725
+#: marine/inc/shortcodes/shortcodes_vc.php:1783
+#: marine/inc/shortcodes/shortcodes_vc.php:1869
+#: marine/inc/shortcodes/shortcodes_vc.php:1901
+#: marine/inc/shortcodes/shortcodes_vc.php:1996
+#: marine/inc/shortcodes/shortcodes_vc.php:2087
+#: marine/inc/shortcodes/shortcodes_vc.php:2111
+#: marine/inc/shortcodes/shortcodes_vc.php:2474
+#: marine/inc/shortcodes/shortcodes_vc.php:2498
+#: marine/inc/shortcodes/shortcodes_vc.php:2693
+#: marine/inc/shortcodes/shortcodes_vc.php:2717
+#: marine/inc/shortcodes/shortcodes_vc.php:2802
+#: marine/inc/shortcodes/shortcodes_vc.php:2886
+#: marine/inc/shortcodes/shortcodes_vc.php:2910
+#: marine/inc/shortcodes/shortcodes_vc.php:2966
+#: marine/inc/shortcodes/shortcodes_vc.php:2973
+#: marine/inc/shortcodes/shortcodes_vc.php:2990
+#: marine/inc/shortcodes/shortcodes_vc.php:3041
+msgid "Content"
+msgstr ""
+
+#: marine/inc/shortcodes.php:114 marine/inc/shortcodes/shortcodes.php:112
+msgid "Accordion item"
+msgstr ""
+
+#: marine/inc/shortcodes.php:121 marine/inc/shortcodes_vc.php:80
+#: marine/inc/shortcodes/shortcodes.php:119
+#: marine/inc/shortcodes/shortcodes_vc.php:80
+msgid "Alert"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:130 marine/inc/shortcodes.php:220
+#: marine/inc/shortcodes.php:680 marine/inc/shortcodes.php:812
+#: marine/inc/shortcodes.php:1862 marine/inc/shortcodes.php:2138
+#: marine/inc/shortcodes_vc.php:90 marine/inc/shortcodes_vc.php:208
+#: marine/inc/shortcodes_vc.php:813 marine/inc/shortcodes_vc.php:2403
+#: marine/inc/shortcodes_vc.php:2567 marine/inc/shortcodes_vc.php:2813
+#: marine/inc/shortcodes/shortcodes.php:128
+#: marine/inc/shortcodes/shortcodes.php:218
+#: marine/inc/shortcodes/shortcodes.php:633
+#: marine/inc/shortcodes/shortcodes.php:749
+#: marine/inc/shortcodes/shortcodes.php:1669
+#: marine/inc/shortcodes/shortcodes.php:1945
+#: marine/inc/shortcodes/shortcodes_vc.php:90
+#: marine/inc/shortcodes/shortcodes_vc.php:208
+#: marine/inc/shortcodes/shortcodes_vc.php:725
+#: marine/inc/shortcodes/shortcodes_vc.php:2125
+#: marine/inc/shortcodes/shortcodes_vc.php:2289
+#: marine/inc/shortcodes/shortcodes_vc.php:2535
+msgid "Style"
+msgstr ""
+
+#: marine/inc/shortcodes.php:132 marine/inc/shortcodes_vc.php:94
+#: marine/inc/shortcodes/shortcodes.php:130
+#: marine/inc/shortcodes/shortcodes_vc.php:94
+msgid "Info"
+msgstr ""
+
+#: marine/inc/shortcodes.php:133 marine/inc/shortcodes_vc.php:95
+#: marine/inc/shortcodes/shortcodes.php:131
+#: marine/inc/shortcodes/shortcodes_vc.php:95
+msgid "Error"
+msgstr ""
+
+#: marine/inc/shortcodes.php:134 marine/inc/shortcodes_vc.php:96
+#: marine/inc/shortcodes/shortcodes.php:132
+#: marine/inc/shortcodes/shortcodes_vc.php:96
+msgid "Notice"
+msgstr ""
+
+#: marine/inc/shortcodes.php:135 marine/inc/shortcodes_vc.php:97
+#: marine/inc/shortcodes/shortcodes.php:133
+#: marine/inc/shortcodes/shortcodes_vc.php:97
+msgid "Success"
+msgstr ""
+
+#: marine/inc/shortcodes.php:143 marine/inc/shortcodes.php:287
+#: marine/inc/shortcodes.php:348 marine/inc/shortcodes.php:467
+#: marine/inc/shortcodes.php:707 marine/inc/shortcodes.php:1242
+#: marine/inc/shortcodes.php:1412 marine/inc/shortcodes.php:1700
+#: marine/inc/shortcodes.php:2190 marine/inc/shortcodes.php:2374
+#: marine/inc/shortcodes_vc.php:103 marine/inc/shortcodes_vc.php:295
+#: marine/inc/shortcodes_vc.php:383 marine/inc/shortcodes_vc.php:554
+#: marine/inc/shortcodes_vc.php:845 marine/inc/shortcodes_vc.php:1582
+#: marine/inc/shortcodes_vc.php:1792 marine/inc/shortcodes_vc.php:2906
+#: marine/inc/shortcodes_vc.php:3143 marine/inc/shortcodes/shortcodes.php:141
+#: marine/inc/shortcodes/shortcodes.php:285
+#: marine/inc/shortcodes/shortcodes.php:420
+#: marine/inc/shortcodes/shortcodes.php:644
+#: marine/inc/shortcodes/shortcodes.php:1130
+#: marine/inc/shortcodes/shortcodes.php:1517
+#: marine/inc/shortcodes/shortcodes.php:1997
+#: marine/inc/shortcodes/shortcodes.php:2171
+#: marine/inc/shortcodes/shortcodes_vc.php:103
+#: marine/inc/shortcodes/shortcodes_vc.php:295
+#: marine/inc/shortcodes/shortcodes_vc.php:466
+#: marine/inc/shortcodes/shortcodes_vc.php:737
+#: marine/inc/shortcodes/shortcodes_vc.php:1404
+#: marine/inc/shortcodes/shortcodes_vc.php:2628
+#: marine/inc/shortcodes/shortcodes_vc.php:2854
+#: marine/framework/framework.php:90
+msgid "Icon"
+msgstr ""
+
+#: marine/inc/shortcodes.php:148 marine/inc/shortcodes/shortcodes.php:146
+msgid "Show Close Button"
+msgstr ""
+
+#: marine/inc/shortcodes.php:152 marine/inc/shortcodes.php:894
+#: marine/inc/shortcodes.php:924 marine/inc/shortcodes.php:988
+#: marine/inc/shortcodes.php:1062 marine/inc/shortcodes.php:1235
+#: marine/inc/shortcodes.php:2003 marine/inc/shortcodes.php:2528
+#: marine/inc/meta-boxes.php:444 marine/inc/meta-boxes.php:484
+#: marine/inc/meta-boxes.php:644 marine/inc/meta-boxes.php:728
+#: marine/inc/meta-boxes.php:947 marine/inc/meta-boxes.php:962
+#: marine/inc/meta-boxes.php:994 marine/inc/meta-boxes.php:1022
+#: marine/inc/meta-boxes.php:1216 marine/inc/meta-boxes.php:1267
+#: marine/inc/meta-boxes.php:1298 marine/inc/meta-boxes.php:1326
+#: marine/inc/shortcodes_vc.php:520 marine/inc/shortcodes_vc.php:629
+#: marine/inc/shortcodes_vc.php:640 marine/inc/shortcodes_vc.php:1086
+#: marine/inc/shortcodes_vc.php:1128 marine/inc/shortcodes_vc.php:1219
+#: marine/inc/shortcodes_vc.php:1322 marine/inc/shortcodes_vc.php:1574
+#: marine/inc/shortcodes_vc.php:1664 marine/inc/shortcodes_vc.php:1728
+#: marine/inc/shortcodes_vc.php:1739 marine/inc/shortcodes_vc.php:1770
+#: marine/inc/shortcodes_vc.php:2296 marine/inc/shortcodes_vc.php:2307
+#: marine/inc/shortcodes_vc.php:2332 marine/inc/shortcodes_vc.php:2343
+#: marine/inc/shortcodes_vc.php:2601 marine/inc/shortcodes_vc.php:3360
+#: marine/inc/theme-options.php:609 marine/inc/theme-options.php:638
+#: marine/inc/theme-options.php:660 marine/inc/theme-options.php:720
+#: marine/inc/theme-options.php:771 marine/inc/theme-options.php:853
+#: marine/inc/theme-options.php:877 marine/inc/theme-options.php:1423
+#: marine/inc/theme-options.php:1522 marine/inc/theme-options.php:1869
+#: marine/inc/shortcodes/shortcodes.php:150
+#: marine/inc/shortcodes/shortcodes.php:831
+#: marine/inc/shortcodes/shortcodes.php:861
+#: marine/inc/shortcodes/shortcodes.php:925
+#: marine/inc/shortcodes/shortcodes.php:1123
+#: marine/inc/shortcodes/shortcodes.php:1810
+#: marine/inc/shortcodes/shortcodes.php:2316
+#: marine/inc/shortcodes/shortcodes_vc.php:432
+#: marine/inc/shortcodes/shortcodes_vc.php:541
+#: marine/inc/shortcodes/shortcodes_vc.php:552
+#: marine/inc/shortcodes/shortcodes_vc.php:978
+#: marine/inc/shortcodes/shortcodes_vc.php:1020
+#: marine/inc/shortcodes/shortcodes_vc.php:1111
+#: marine/inc/shortcodes/shortcodes_vc.php:1396
+#: marine/inc/shortcodes/shortcodes_vc.php:1486
+#: marine/inc/shortcodes/shortcodes_vc.php:1550
+#: marine/inc/shortcodes/shortcodes_vc.php:1561
+#: marine/inc/shortcodes/shortcodes_vc.php:1592
+#: marine/inc/shortcodes/shortcodes_vc.php:2029
+#: marine/inc/shortcodes/shortcodes_vc.php:2054
+#: marine/inc/shortcodes/shortcodes_vc.php:2065
+#: marine/inc/shortcodes/shortcodes_vc.php:2323
+#: marine/inc/shortcodes/shortcodes_vc.php:3060
+msgid "Yes"
+msgstr ""
+
+#: marine/inc/shortcodes.php:153 marine/inc/shortcodes.php:895
+#: marine/inc/shortcodes.php:925 marine/inc/shortcodes.php:989
+#: marine/inc/shortcodes.php:1063 marine/inc/shortcodes.php:1234
+#: marine/inc/shortcodes.php:2002 marine/inc/shortcodes.php:2527
+#: marine/inc/meta-boxes.php:449 marine/inc/meta-boxes.php:489
+#: marine/inc/meta-boxes.php:649 marine/inc/meta-boxes.php:733
+#: marine/inc/meta-boxes.php:896 marine/inc/meta-boxes.php:942
+#: marine/inc/meta-boxes.php:967 marine/inc/meta-boxes.php:989
+#: marine/inc/meta-boxes.php:1017 marine/inc/meta-boxes.php:1221
+#: marine/inc/meta-boxes.php:1272 marine/inc/meta-boxes.php:1293
+#: marine/inc/meta-boxes.php:1321 marine/inc/shortcodes_vc.php:519
+#: marine/inc/shortcodes_vc.php:628 marine/inc/shortcodes_vc.php:639
+#: marine/inc/shortcodes_vc.php:1087 marine/inc/shortcodes_vc.php:1129
+#: marine/inc/shortcodes_vc.php:1220 marine/inc/shortcodes_vc.php:1323
+#: marine/inc/shortcodes_vc.php:1573 marine/inc/shortcodes_vc.php:1665
+#: marine/inc/shortcodes_vc.php:1727 marine/inc/shortcodes_vc.php:1738
+#: marine/inc/shortcodes_vc.php:1771 marine/inc/shortcodes_vc.php:2295
+#: marine/inc/shortcodes_vc.php:2306 marine/inc/shortcodes_vc.php:2331
+#: marine/inc/shortcodes_vc.php:2342 marine/inc/shortcodes_vc.php:2600
+#: marine/inc/shortcodes_vc.php:3359 marine/inc/theme-options.php:614
+#: marine/inc/theme-options.php:633 marine/inc/theme-options.php:655
+#: marine/inc/theme-options.php:715 marine/inc/theme-options.php:766
+#: marine/inc/theme-options.php:858 marine/inc/theme-options.php:882
+#: marine/inc/theme-options.php:1428 marine/inc/theme-options.php:1527
+#: marine/inc/theme-options.php:1864 marine/inc/shortcodes/shortcodes.php:151
+#: marine/inc/shortcodes/shortcodes.php:832
+#: marine/inc/shortcodes/shortcodes.php:862
+#: marine/inc/shortcodes/shortcodes.php:926
+#: marine/inc/shortcodes/shortcodes.php:1122
+#: marine/inc/shortcodes/shortcodes.php:1809
+#: marine/inc/shortcodes/shortcodes.php:2315
+#: marine/inc/shortcodes/shortcodes_vc.php:431
+#: marine/inc/shortcodes/shortcodes_vc.php:540
+#: marine/inc/shortcodes/shortcodes_vc.php:551
+#: marine/inc/shortcodes/shortcodes_vc.php:979
+#: marine/inc/shortcodes/shortcodes_vc.php:1021
+#: marine/inc/shortcodes/shortcodes_vc.php:1112
+#: marine/inc/shortcodes/shortcodes_vc.php:1395
+#: marine/inc/shortcodes/shortcodes_vc.php:1487
+#: marine/inc/shortcodes/shortcodes_vc.php:1549
+#: marine/inc/shortcodes/shortcodes_vc.php:1560
+#: marine/inc/shortcodes/shortcodes_vc.php:1593
+#: marine/inc/shortcodes/shortcodes_vc.php:2028
+#: marine/inc/shortcodes/shortcodes_vc.php:2053
+#: marine/inc/shortcodes/shortcodes_vc.php:2064
+#: marine/inc/shortcodes/shortcodes_vc.php:2322
+#: marine/inc/shortcodes/shortcodes_vc.php:3059
+msgid "No"
+msgstr ""
+
+#: marine/inc/shortcodes.php:170 marine/inc/shortcodes_vc.php:136
+#: marine/inc/shortcodes/shortcodes.php:168
+#: marine/inc/shortcodes/shortcodes_vc.php:136
+msgid "Blockquote"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:178 marine/inc/shortcodes_vc.php:146
+#: marine/inc/shortcodes/shortcodes.php:176
+#: marine/inc/shortcodes/shortcodes_vc.php:146
+msgid "Author"
+msgstr ""
+
+#: marine/inc/shortcodes.php:198 marine/inc/shortcodes/shortcodes.php:196
+msgid "Post per page"
+msgstr ""
+
+#: marine/inc/shortcodes.php:204 marine/inc/shortcodes_vc.php:184
+#: marine/inc/shortcodes/shortcodes.php:202
+#: marine/inc/shortcodes/shortcodes_vc.php:184
+msgid "Load More Label"
+msgstr ""
+
+#: marine/inc/shortcodes.php:212 marine/inc/shortcodes_vc.php:198
+#: marine/inc/shortcodes/shortcodes.php:210
+#: marine/inc/shortcodes/shortcodes_vc.php:198
+msgid "Banner"
+msgstr ""
+
+#: marine/inc/shortcodes.php:230 marine/inc/shortcodes.php:1545
+#: marine/inc/shortcodes.php:1553 marine/inc/shortcodes.php:1735
+#: marine/inc/shortcodes.php:1963 marine/inc/shortcodes.php:2081
+#: marine/inc/meta-boxes.php:251 marine/inc/meta-boxes.php:587
+#: marine/inc/shortcodes_vc.php:219 marine/inc/shortcodes_vc.php:1913
+#: marine/inc/shortcodes_vc.php:1989 marine/inc/shortcodes_vc.php:1999
+#: marine/inc/shortcodes_vc.php:2222 marine/inc/shortcodes_vc.php:2535
+#: marine/inc/shortcodes_vc.php:2723 marine/inc/shortcodes/shortcodes.php:228
+#: marine/inc/shortcodes/shortcodes.php:1362
+#: marine/inc/shortcodes/shortcodes.php:1370
+#: marine/inc/shortcodes/shortcodes.php:1552
+#: marine/inc/shortcodes/shortcodes.php:1770
+#: marine/inc/shortcodes/shortcodes.php:1888
+#: marine/inc/shortcodes/shortcodes_vc.php:219
+#: marine/inc/shortcodes/shortcodes_vc.php:1646
+#: marine/inc/shortcodes/shortcodes_vc.php:1722
+#: marine/inc/shortcodes/shortcodes_vc.php:1732
+#: marine/inc/shortcodes/shortcodes_vc.php:1955
+#: marine/inc/shortcodes/shortcodes_vc.php:2257
+#: marine/inc/shortcodes/shortcodes_vc.php:2445
+#: marine/framework/class/ts_extra_taxonomy_fields.class.php:71
+#: marine/framework/class/ts_extra_taxonomy_fields.class.php:115
+msgid "Image"
+msgstr ""
+
+#: marine/inc/shortcodes.php:240 marine/inc/shortcodes.php:965
+#: marine/inc/shortcodes.php:1029 marine/inc/shortcodes_vc.php:233
+#: marine/inc/shortcodes_vc.php:1184 marine/inc/shortcodes_vc.php:1275
+#: marine/inc/shortcodes/shortcodes.php:238
+#: marine/inc/shortcodes/shortcodes.php:902
+#: marine/inc/shortcodes/shortcodes.php:966
+#: marine/inc/shortcodes/shortcodes_vc.php:233
+#: marine/inc/shortcodes/shortcodes_vc.php:1076
+#: marine/inc/shortcodes/shortcodes_vc.php:1167
+msgid "Subtitle"
+msgstr ""
+
+#: marine/inc/shortcodes.php:245 marine/inc/shortcodes_vc.php:240
+#: marine/inc/shortcodes/shortcodes.php:243
+#: marine/inc/shortcodes/shortcodes_vc.php:240
+msgid "Button text (no button if empty)"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:250 marine/inc/shortcodes.php:320
+#: marine/inc/shortcodes.php:366 marine/inc/shortcodes.php:408
+#: marine/inc/shortcodes.php:496 marine/inc/shortcodes.php:1740
+#: marine/inc/shortcodes.php:2035 marine/inc/shortcodes.php:2518
+#: marine/inc/shortcodes_vc.php:247 marine/inc/shortcodes_vc.php:335
+#: marine/inc/shortcodes_vc.php:423 marine/inc/shortcodes_vc.php:478
+#: marine/inc/shortcodes_vc.php:583 marine/inc/shortcodes_vc.php:825
+#: marine/inc/shortcodes_vc.php:2020 marine/inc/shortcodes_vc.php:2106
+#: marine/inc/shortcodes_vc.php:2229 marine/inc/shortcodes_vc.php:2449
+#: marine/inc/shortcodes_vc.php:2642 marine/inc/shortcodes_vc.php:2936
+#: marine/inc/shortcodes_vc.php:3348 marine/inc/shortcodes/shortcodes.php:248
+#: marine/inc/shortcodes/shortcodes.php:318
+#: marine/inc/shortcodes/shortcodes.php:361
+#: marine/inc/shortcodes/shortcodes.php:449
+#: marine/inc/shortcodes/shortcodes.php:1557
+#: marine/inc/shortcodes/shortcodes.php:1842
+#: marine/inc/shortcodes/shortcodes.php:2306
+#: marine/inc/shortcodes/shortcodes_vc.php:247
+#: marine/inc/shortcodes/shortcodes_vc.php:335
+#: marine/inc/shortcodes/shortcodes_vc.php:390
+#: marine/inc/shortcodes/shortcodes_vc.php:495
+#: marine/inc/shortcodes/shortcodes_vc.php:1753
+#: marine/inc/shortcodes/shortcodes_vc.php:1839
+#: marine/inc/shortcodes/shortcodes_vc.php:1962
+#: marine/inc/shortcodes/shortcodes_vc.php:2171
+#: marine/inc/shortcodes/shortcodes_vc.php:2364
+#: marine/inc/shortcodes/shortcodes_vc.php:2658
+#: marine/inc/shortcodes/shortcodes_vc.php:3048
+#: marine/framework/custom-menus.php:213
+msgid "URL"
+msgstr ""
+
+#: marine/inc/shortcodes.php:255 marine/inc/shortcodes.php:325
+#: marine/inc/shortcodes.php:371 marine/inc/shortcodes.php:413
+#: marine/inc/shortcodes.php:501 marine/inc/shortcodes.php:696
+#: marine/inc/shortcodes.php:1588 marine/inc/shortcodes.php:1652
+#: marine/inc/shortcodes.php:2222 marine/inc/shortcodes_vc.php:254
+#: marine/inc/shortcodes_vc.php:342 marine/inc/shortcodes_vc.php:430
+#: marine/inc/shortcodes_vc.php:485 marine/inc/shortcodes_vc.php:590
+#: marine/inc/shortcodes_vc.php:832 marine/inc/shortcodes_vc.php:2027
+#: marine/inc/shortcodes_vc.php:2113 marine/inc/shortcodes_vc.php:2235
+#: marine/inc/shortcodes_vc.php:2456 marine/inc/shortcodes_vc.php:2943
+#: marine/inc/shortcodes/shortcodes.php:253
+#: marine/inc/shortcodes/shortcodes.php:323
+#: marine/inc/shortcodes/shortcodes.php:366
+#: marine/inc/shortcodes/shortcodes.php:454
+#: marine/inc/shortcodes/shortcodes.php:1405
+#: marine/inc/shortcodes/shortcodes.php:1469
+#: marine/inc/shortcodes/shortcodes.php:2029
+#: marine/inc/shortcodes/shortcodes_vc.php:254
+#: marine/inc/shortcodes/shortcodes_vc.php:342
+#: marine/inc/shortcodes/shortcodes_vc.php:397
+#: marine/inc/shortcodes/shortcodes_vc.php:502
+#: marine/inc/shortcodes/shortcodes_vc.php:1760
+#: marine/inc/shortcodes/shortcodes_vc.php:1846
+#: marine/inc/shortcodes/shortcodes_vc.php:1968
+#: marine/inc/shortcodes/shortcodes_vc.php:2178
+#: marine/inc/shortcodes/shortcodes_vc.php:2665
+msgid "Target"
+msgstr ""
+
+#: marine/inc/shortcodes.php:257 marine/inc/shortcodes.php:327
+#: marine/inc/shortcodes.php:373 marine/inc/shortcodes.php:415
+#: marine/inc/shortcodes.php:503 marine/inc/shortcodes.php:699
+#: marine/inc/shortcodes.php:1591 marine/inc/shortcodes.php:1655
+#: marine/inc/shortcodes.php:1748 marine/inc/shortcodes.php:1906
+#: marine/inc/shortcodes.php:2224 marine/inc/shortcodes/shortcodes.php:255
+#: marine/inc/shortcodes/shortcodes.php:325
+#: marine/inc/shortcodes/shortcodes.php:368
+#: marine/inc/shortcodes/shortcodes.php:456
+#: marine/inc/shortcodes/shortcodes.php:1408
+#: marine/inc/shortcodes/shortcodes.php:1472
+#: marine/inc/shortcodes/shortcodes.php:1565
+#: marine/inc/shortcodes/shortcodes.php:1713
+#: marine/inc/shortcodes/shortcodes.php:2031
+msgid "_blank"
+msgstr ""
+
+#: marine/inc/shortcodes.php:258 marine/inc/shortcodes.php:328
+#: marine/inc/shortcodes.php:374 marine/inc/shortcodes.php:416
+#: marine/inc/shortcodes.php:504 marine/inc/shortcodes.php:700
+#: marine/inc/shortcodes.php:1592 marine/inc/shortcodes.php:1656
+#: marine/inc/shortcodes.php:1749 marine/inc/shortcodes.php:1907
+#: marine/inc/shortcodes.php:2225 marine/inc/shortcodes/shortcodes.php:256
+#: marine/inc/shortcodes/shortcodes.php:326
+#: marine/inc/shortcodes/shortcodes.php:369
+#: marine/inc/shortcodes/shortcodes.php:457
+#: marine/inc/shortcodes/shortcodes.php:1409
+#: marine/inc/shortcodes/shortcodes.php:1473
+#: marine/inc/shortcodes/shortcodes.php:1566
+#: marine/inc/shortcodes/shortcodes.php:1714
+#: marine/inc/shortcodes/shortcodes.php:2032
+msgid "_parent"
+msgstr ""
+
+#: marine/inc/shortcodes.php:259 marine/inc/shortcodes.php:329
+#: marine/inc/shortcodes.php:375 marine/inc/shortcodes.php:417
+#: marine/inc/shortcodes.php:505 marine/inc/shortcodes.php:701
+#: marine/inc/shortcodes.php:1593 marine/inc/shortcodes.php:1657
+#: marine/inc/shortcodes.php:1750 marine/inc/shortcodes.php:1908
+#: marine/inc/shortcodes.php:2226 marine/inc/shortcodes/shortcodes.php:257
+#: marine/inc/shortcodes/shortcodes.php:327
+#: marine/inc/shortcodes/shortcodes.php:370
+#: marine/inc/shortcodes/shortcodes.php:458
+#: marine/inc/shortcodes/shortcodes.php:1410
+#: marine/inc/shortcodes/shortcodes.php:1474
+#: marine/inc/shortcodes/shortcodes.php:1567
+#: marine/inc/shortcodes/shortcodes.php:1715
+#: marine/inc/shortcodes/shortcodes.php:2033
+msgid "_self"
+msgstr ""
+
+#: marine/inc/shortcodes.php:260 marine/inc/shortcodes.php:330
+#: marine/inc/shortcodes.php:376 marine/inc/shortcodes.php:418
+#: marine/inc/shortcodes.php:506 marine/inc/shortcodes.php:702
+#: marine/inc/shortcodes.php:1594 marine/inc/shortcodes.php:1658
+#: marine/inc/shortcodes.php:1751 marine/inc/shortcodes.php:1909
+#: marine/inc/shortcodes.php:2227 marine/inc/shortcodes/shortcodes.php:258
+#: marine/inc/shortcodes/shortcodes.php:328
+#: marine/inc/shortcodes/shortcodes.php:371
+#: marine/inc/shortcodes/shortcodes.php:459
+#: marine/inc/shortcodes/shortcodes.php:1411
+#: marine/inc/shortcodes/shortcodes.php:1475
+#: marine/inc/shortcodes/shortcodes.php:1568
+#: marine/inc/shortcodes/shortcodes.php:1716
+#: marine/inc/shortcodes/shortcodes.php:2034
+msgid "_top"
+msgstr ""
+
+#: marine/inc/shortcodes.php:269 marine/inc/shortcodes_vc.php:274
+#: marine/inc/shortcodes_vc.php:362 marine/inc/shortcodes/shortcodes.php:267
+#: marine/inc/shortcodes/shortcodes_vc.php:274
+msgid "Button"
+msgstr ""
+
+#: marine/inc/shortcodes.php:277 marine/inc/shortcodes.php:2419
+#: marine/inc/shortcodes_vc.php:284 marine/inc/shortcodes_vc.php:372
+#: marine/inc/shortcodes/shortcodes.php:275
+#: marine/inc/shortcodes/shortcodes_vc.php:284
+msgid "Variant"
+msgstr ""
+
+#: marine/inc/shortcodes.php:295 marine/inc/shortcodes.php:446
+#: marine/inc/shortcodes.php:827 marine/inc/shortcodes.php:1164
+#: marine/inc/shortcodes.php:1946 marine/inc/meta-boxes.php:1483
+#: marine/inc/shortcodes_vc.php:303 marine/inc/shortcodes_vc.php:391
+#: marine/inc/shortcodes_vc.php:526 marine/inc/shortcodes_vc.php:933
+#: marine/inc/shortcodes_vc.php:994 marine/inc/shortcodes_vc.php:1470
+#: marine/inc/shortcodes_vc.php:2511 marine/inc/theme-options.php:278
+#: marine/inc/shortcodes/shortcodes.php:293
+#: marine/inc/shortcodes/shortcodes.php:399
+#: marine/inc/shortcodes/shortcodes.php:764
+#: marine/inc/shortcodes/shortcodes.php:1052
+#: marine/inc/shortcodes/shortcodes.php:1753
+#: marine/inc/shortcodes/shortcodes_vc.php:303
+#: marine/inc/shortcodes/shortcodes_vc.php:438
+#: marine/inc/shortcodes/shortcodes_vc.php:825
+#: marine/inc/shortcodes/shortcodes_vc.php:886
+#: marine/inc/shortcodes/shortcodes_vc.php:1292
+#: marine/inc/shortcodes/shortcodes_vc.php:2233
+msgid "Background color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:300 marine/inc/shortcodes.php:452
+#: marine/inc/shortcodes.php:2438 marine/inc/shortcodes_vc.php:310
+#: marine/inc/shortcodes_vc.php:398 marine/inc/shortcodes_vc.php:533
+#: marine/inc/shortcodes_vc.php:881 marine/inc/shortcodes_vc.php:940
+#: marine/inc/shortcodes_vc.php:2078 marine/inc/shortcodes_vc.php:2428
+#: marine/inc/shortcodes_vc.php:2824 marine/inc/shortcodes_vc.php:3231
+#: marine/inc/shortcodes/shortcodes.php:298
+#: marine/inc/shortcodes/shortcodes.php:405
+#: marine/inc/shortcodes/shortcodes.php:2226
+#: marine/inc/shortcodes/shortcodes_vc.php:310
+#: marine/inc/shortcodes/shortcodes_vc.php:445
+#: marine/inc/shortcodes/shortcodes_vc.php:773
+#: marine/inc/shortcodes/shortcodes_vc.php:832
+#: marine/inc/shortcodes/shortcodes_vc.php:1811
+#: marine/inc/shortcodes/shortcodes_vc.php:2150
+#: marine/inc/shortcodes/shortcodes_vc.php:2546
+#: marine/inc/shortcodes/shortcodes_vc.php:2931
+msgid "Text color"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:305 marine/inc/shortcodes_vc.php:317
+#: marine/inc/shortcodes_vc.php:405 marine/inc/shortcodes_vc.php:460
+#: marine/inc/shortcodes/shortcodes.php:303
+#: marine/inc/shortcodes/shortcodes_vc.php:317
+#: marine/inc/shortcodes/shortcodes_vc.php:372
+msgid "Size"
+msgstr ""
+
+#: marine/inc/shortcodes.php:307 marine/inc/shortcodes/shortcodes.php:305
+msgid "small"
+msgstr ""
+
+#: marine/inc/shortcodes.php:308 marine/inc/shortcodes/shortcodes.php:306
+msgid "large"
+msgstr ""
+
+#: marine/inc/shortcodes.php:315 marine/inc/shortcodes.php:361
+#: marine/inc/shortcodes_vc.php:328 marine/inc/shortcodes_vc.php:416
+#: marine/inc/shortcodes_vc.php:2085 marine/inc/shortcodes/shortcodes.php:313
+#: marine/inc/shortcodes/shortcodes_vc.php:328
+#: marine/inc/shortcodes/shortcodes_vc.php:1818
+msgid "Button text"
+msgstr ""
+
+#: marine/inc/shortcodes.php:340
+msgid "Button 2"
+msgstr ""
+
+#: marine/inc/shortcodes.php:356 marine/inc/shortcodes.php:793
+#: marine/inc/shortcodes.php:822 marine/inc/shortcodes.php:860
+#: marine/inc/shortcodes.php:1123 marine/inc/shortcodes.php:1159
+#: marine/inc/shortcodes.php:1261 marine/inc/shortcodes_vc.php:963
+#: marine/inc/shortcodes_vc.php:987 marine/inc/shortcodes_vc.php:1039
+#: marine/inc/shortcodes_vc.php:1410 marine/inc/shortcodes_vc.php:1463
+#: marine/inc/shortcodes_vc.php:1610 marine/inc/shortcodes/shortcodes.php:730
+#: marine/inc/shortcodes/shortcodes.php:759
+#: marine/inc/shortcodes/shortcodes.php:797
+#: marine/inc/shortcodes/shortcodes.php:1011
+#: marine/inc/shortcodes/shortcodes.php:1047
+#: marine/inc/shortcodes/shortcodes.php:1149
+#: marine/inc/shortcodes/shortcodes_vc.php:855
+#: marine/inc/shortcodes/shortcodes_vc.php:879
+#: marine/inc/shortcodes/shortcodes_vc.php:931
+#: marine/inc/shortcodes/shortcodes_vc.php:1232
+#: marine/inc/shortcodes/shortcodes_vc.php:1285
+#: marine/inc/shortcodes/shortcodes_vc.php:1432
+msgid "Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:385 marine/inc/shortcodes_vc.php:450
+#: marine/inc/shortcodes/shortcodes.php:338
+#: marine/inc/shortcodes/shortcodes_vc.php:362
+msgid "Button View"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:393 marine/inc/shortcodes.php:847
+#: marine/inc/shortcodes.php:1221 marine/inc/shortcodes_vc.php:1025
+#: marine/inc/shortcodes_vc.php:1557 marine/inc/theme-options.php:811
+#: marine/inc/shortcodes/shortcodes.php:346
+#: marine/inc/shortcodes/shortcodes.php:784
+#: marine/inc/shortcodes/shortcodes.php:1109
+#: marine/inc/shortcodes/shortcodes_vc.php:917
+#: marine/inc/shortcodes/shortcodes_vc.php:1379
+#: marine/framework/class/class-tgm-plugin-activation.php:1393
+msgid "Type"
+msgstr ""
+
+#: marine/inc/shortcodes.php:395 marine/inc/shortcodes_vc.php:464
+#: marine/inc/shortcodes/shortcodes.php:348
+#: marine/inc/shortcodes/shortcodes_vc.php:376
+msgid "Black"
+msgstr ""
+
+#: marine/inc/shortcodes.php:396 marine/inc/shortcodes_vc.php:465
+#: marine/inc/shortcodes/shortcodes.php:349
+#: marine/inc/shortcodes/shortcodes_vc.php:377
+msgid "White"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:403 marine/inc/shortcodes.php:1223
+#: marine/inc/shortcodes.php:2049 marine/inc/shortcodes.php:2057
+#: marine/inc/shortcodes.php:2459 marine/inc/shortcodes_vc.php:471
+#: marine/inc/shortcodes_vc.php:1561 marine/inc/shortcodes_vc.php:2175
+#: marine/inc/shortcodes_vc.php:2670 marine/inc/shortcodes_vc.php:2678
+#: marine/inc/shortcodes_vc.php:3263 marine/inc/theme-options.php:2322
+#: marine/inc/shortcodes/shortcodes.php:356
+#: marine/inc/shortcodes/shortcodes.php:1111
+#: marine/inc/shortcodes/shortcodes.php:1856
+#: marine/inc/shortcodes/shortcodes.php:1864
+#: marine/inc/shortcodes/shortcodes.php:2247
+#: marine/inc/shortcodes/shortcodes_vc.php:383
+#: marine/inc/shortcodes/shortcodes_vc.php:1383
+#: marine/inc/shortcodes/shortcodes_vc.php:1908
+#: marine/inc/shortcodes/shortcodes_vc.php:2392
+#: marine/inc/shortcodes/shortcodes_vc.php:2400
+#: marine/inc/shortcodes/shortcodes_vc.php:2963
+msgid "Text"
+msgstr ""
+
+#: marine/inc/shortcodes.php:428 marine/inc/shortcodes_vc.php:505
+#: marine/inc/widgets/WP_Call_To_Action_Widget.class.php:18
+#: marine/inc/shortcodes/shortcodes.php:381
+#: marine/inc/shortcodes/shortcodes_vc.php:417
+msgid "Call To Action"
+msgstr ""
+
+#: marine/inc/shortcodes.php:436 marine/inc/shortcodes_vc.php:515
+#: marine/inc/shortcodes/shortcodes.php:389
+#: marine/inc/shortcodes/shortcodes_vc.php:427
+msgid "Transparent background"
+msgstr ""
+
+#: marine/inc/shortcodes.php:457 marine/inc/shortcodes_vc.php:547
+#: marine/inc/shortcodes_vc.php:2099 marine/inc/shortcodes/shortcodes.php:410
+#: marine/inc/shortcodes/shortcodes_vc.php:459
+#: marine/inc/shortcodes/shortcodes_vc.php:1832
+msgid "Button color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:462 marine/inc/shortcodes.php:1637
+#: marine/inc/shortcodes/shortcodes.php:415
+#: marine/inc/shortcodes/shortcodes.php:1454
+msgid "Button Background"
+msgstr ""
+
+#: marine/inc/shortcodes.php:478 marine/inc/shortcodes.php:1266
+#: marine/inc/shortcodes_vc.php:562 marine/inc/shortcodes_vc.php:1617
+#: marine/inc/shortcodes_vc.php:1970 marine/inc/shortcodes_vc.php:2830
+#: marine/inc/shortcodes/shortcodes.php:431
+#: marine/inc/shortcodes/shortcodes.php:1154
+#: marine/inc/shortcodes/shortcodes_vc.php:474
+#: marine/inc/shortcodes/shortcodes_vc.php:1439
+#: marine/inc/shortcodes/shortcodes_vc.php:1703
+#: marine/inc/shortcodes/shortcodes_vc.php:2552
+msgid "Border color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:485 marine/inc/shortcodes_vc.php:569
+#: marine/inc/shortcodes/shortcodes.php:438
+#: marine/inc/shortcodes/shortcodes_vc.php:481
+msgid "Button label"
+msgstr ""
+
+#: marine/inc/shortcodes.php:514 marine/inc/shortcodes/shortcodes.php:467
+msgid "Padding Top"
+msgstr ""
+
+#: marine/inc/shortcodes.php:519 marine/inc/shortcodes/shortcodes.php:472
+msgid "Padding Bottom"
+msgstr ""
+
+#: marine/inc/shortcodes.php:524 marine/inc/shortcodes/shortcodes.php:477
+msgid "Margin Bottom"
+msgstr ""
+
+#: marine/inc/shortcodes.php:530 marine/inc/shortcodes.php:1357
+#: marine/inc/shortcodes.php:1812 marine/inc/shortcodes/shortcodes.php:483
+#: marine/inc/shortcodes/shortcodes.php:1245
+#: marine/inc/shortcodes/shortcodes.php:1619
+msgid "First element on a page"
+msgstr ""
+
+#: marine/inc/shortcodes.php:540 marine/inc/shortcodes.php:1367
+#: marine/inc/shortcodes.php:1822 marine/inc/shortcodes/shortcodes.php:493
+#: marine/inc/shortcodes/shortcodes.php:1255
+#: marine/inc/shortcodes/shortcodes.php:1629
+msgid "Last element on a page"
+msgstr ""
+
+#: marine/inc/shortcodes.php:553 marine/inc/shortcodes_vc.php:653
+#: marine/inc/shortcodes/shortcodes.php:506
+#: marine/inc/shortcodes/shortcodes_vc.php:565
+msgid "Column With Offset"
+msgstr ""
+
+#: marine/inc/shortcodes.php:607 marine/inc/meta-boxes.php:373
+#: marine/inc/shortcodes_vc.php:722 marine/inc/shortcodes/shortcodes.php:560
+#: marine/inc/shortcodes/shortcodes_vc.php:634
+msgid "Name Field Label"
+msgstr ""
+
+#: marine/inc/shortcodes.php:613 marine/inc/shortcodes_vc.php:729
+#: marine/inc/shortcodes/shortcodes.php:566
+#: marine/inc/shortcodes/shortcodes_vc.php:641
+msgid "Icon for Name Field"
+msgstr ""
+
+#: marine/inc/shortcodes.php:621 marine/inc/meta-boxes.php:391
+#: marine/inc/shortcodes_vc.php:737 marine/inc/shortcodes/shortcodes.php:574
+#: marine/inc/shortcodes/shortcodes_vc.php:649
+msgid "Email Field Label"
+msgstr ""
+
+#: marine/inc/shortcodes.php:627 marine/inc/shortcodes_vc.php:744
+#: marine/inc/shortcodes/shortcodes.php:580
+#: marine/inc/shortcodes/shortcodes_vc.php:656
+msgid "Icon for Email Field"
+msgstr ""
+
+#: marine/inc/shortcodes.php:635 marine/inc/meta-boxes.php:409
+#: marine/inc/shortcodes_vc.php:752 marine/inc/shortcodes/shortcodes.php:588
+#: marine/inc/shortcodes/shortcodes_vc.php:664
+msgid "Message Field Label"
+msgstr ""
+
+#: marine/inc/shortcodes.php:640 marine/inc/shortcodes/shortcodes.php:593
+msgid "Send Button label"
+msgstr ""
+
+#: marine/inc/shortcodes.php:646 marine/inc/shortcodes/shortcodes.php:599
+msgid "Clear Button label"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:665 marine/inc/shortcodes.php:2325
+#: marine/inc/shortcodes.php:2497 marine/inc/shortcodes.php:2537
+#: marine/inc/meta-boxes.php:901 marine/inc/shortcodes_vc.php:788
+#: marine/inc/shortcodes_vc.php:3083 marine/inc/shortcodes_vc.php:3317
+#: marine/inc/shortcodes_vc.php:3370 marine/inc/theme-options.php:361
+#: marine/inc/theme-options.php:791 marine/inc/shortcodes/shortcodes.php:618
+#: marine/inc/shortcodes/shortcodes.php:2122
+#: marine/inc/shortcodes/shortcodes.php:2285
+#: marine/inc/shortcodes/shortcodes.php:2325
+#: marine/inc/shortcodes/shortcodes_vc.php:700
+#: marine/inc/shortcodes/shortcodes_vc.php:2794
+#: marine/inc/shortcodes/shortcodes_vc.php:3017
+#: marine/inc/shortcodes/shortcodes_vc.php:3070
+msgid "Left"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:666 marine/inc/shortcodes.php:869
+#: marine/inc/shortcodes.php:2327 marine/inc/shortcodes.php:2498
+#: marine/inc/shortcodes.php:2539 marine/inc/meta-boxes.php:906
+#: marine/inc/shortcodes_vc.php:789 marine/inc/shortcodes_vc.php:1052
+#: marine/inc/shortcodes_vc.php:3085 marine/inc/shortcodes_vc.php:3318
+#: marine/inc/shortcodes_vc.php:3372 marine/inc/theme-options.php:371
+#: marine/inc/theme-options.php:796 marine/inc/shortcodes/shortcodes.php:619
+#: marine/inc/shortcodes/shortcodes.php:806
+#: marine/inc/shortcodes/shortcodes.php:2124
+#: marine/inc/shortcodes/shortcodes.php:2286
+#: marine/inc/shortcodes/shortcodes.php:2327
+#: marine/inc/shortcodes/shortcodes_vc.php:701
+#: marine/inc/shortcodes/shortcodes_vc.php:944
+#: marine/inc/shortcodes/shortcodes_vc.php:2796
+#: marine/inc/shortcodes/shortcodes_vc.php:3018
+#: marine/inc/shortcodes/shortcodes_vc.php:3072
+msgid "Right"
+msgstr ""
+
+#: marine/inc/shortcodes.php:667 marine/inc/shortcodes.php:868
+#: marine/inc/shortcodes.php:2326 marine/inc/shortcodes.php:2538
+#: marine/inc/shortcodes_vc.php:790 marine/inc/shortcodes_vc.php:1051
+#: marine/inc/shortcodes_vc.php:3084 marine/inc/shortcodes_vc.php:3371
+#: marine/inc/theme-options.php:366 marine/inc/shortcodes/shortcodes.php:620
+#: marine/inc/shortcodes/shortcodes.php:805
+#: marine/inc/shortcodes/shortcodes.php:2123
+#: marine/inc/shortcodes/shortcodes.php:2326
+#: marine/inc/shortcodes/shortcodes_vc.php:702
+#: marine/inc/shortcodes/shortcodes_vc.php:943
+#: marine/inc/shortcodes/shortcodes_vc.php:2795
+#: marine/inc/shortcodes/shortcodes_vc.php:3071
+msgid "Center"
+msgstr ""
+
+#: marine/inc/shortcodes.php:675 marine/inc/shortcodes_vc.php:803
+#: marine/inc/shortcodes/shortcodes.php:628
+#: marine/inc/shortcodes/shortcodes_vc.php:715
+msgid "Content Box"
+msgstr ""
+
+#: marine/inc/shortcodes.php:684 marine/inc/shortcodes.php:1865
+#: marine/inc/shortcodes.php:1981 marine/inc/meta-boxes.php:813
+#: marine/inc/shortcodes_vc.php:817 marine/inc/shortcodes_vc.php:2407
+#: marine/inc/shortcodes_vc.php:2571 marine/inc/shortcodes_vc.php:2817
+#: marine/inc/theme-options.php:435 marine/inc/theme-options.php:473
+#: marine/inc/shortcodes/shortcodes.php:637
+#: marine/inc/shortcodes/shortcodes.php:1672
+#: marine/inc/shortcodes/shortcodes.php:1788
+#: marine/inc/shortcodes/shortcodes_vc.php:729
+#: marine/inc/shortcodes/shortcodes_vc.php:2129
+#: marine/inc/shortcodes/shortcodes_vc.php:2293
+#: marine/inc/shortcodes/shortcodes_vc.php:2539
+msgid "Style 1"
+msgstr ""
+
+#: marine/inc/shortcodes.php:691 marine/inc/shortcodes.php:1583
+#: marine/inc/shortcodes.php:1647 marine/inc/shortcodes.php:1898
+#: marine/inc/shortcodes.php:2217 marine/inc/shortcodes/shortcodes.php:1400
+#: marine/inc/shortcodes/shortcodes.php:1464
+#: marine/inc/shortcodes/shortcodes.php:1705
+#: marine/inc/shortcodes/shortcodes.php:2024
+msgid "Url"
+msgstr ""
+
+#: marine/inc/shortcodes.php:714 marine/inc/shortcodes/shortcodes.php:651
+msgid "Icon Background Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:719 marine/inc/shortcodes.php:1509
+#: marine/inc/shortcodes/shortcodes.php:656
+#: marine/inc/shortcodes/shortcodes.php:1326
+msgid "Icon Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:730 marine/inc/shortcodes.php:1519
+#: marine/inc/shortcodes.php:1871 marine/inc/shortcodes/shortcodes.php:667
+#: marine/inc/shortcodes/shortcodes.php:1336
+#: marine/inc/shortcodes/shortcodes.php:1678
+msgid "Title Color"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:735 marine/inc/shortcodes.php:779
+#: marine/inc/shortcodes.php:1627 marine/inc/shortcodes.php:1881
+#: marine/inc/shortcodes.php:2147 marine/inc/shortcodes/shortcodes.php:672
+#: marine/inc/shortcodes/shortcodes.php:716
+#: marine/inc/shortcodes/shortcodes.php:1444
+#: marine/inc/shortcodes/shortcodes.php:1688
+#: marine/inc/shortcodes/shortcodes.php:1954
+msgid "Text Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:748 marine/inc/shortcodes_vc.php:902
+#: marine/inc/shortcodes/shortcodes.php:685
+#: marine/inc/shortcodes/shortcodes_vc.php:794
+msgid "Counter"
+msgstr ""
+
+# @ woocommerce
+#: marine/inc/shortcodes.php:761 marine/inc/shortcodes_vc.php:919
+#: marine/inc/shortcodes/shortcodes.php:698
+#: marine/inc/shortcodes/shortcodes_vc.php:811
+#: marine/woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: marine/inc/shortcodes.php:767 marine/inc/shortcodes/shortcodes.php:704
+msgid "Foreground Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:774 marine/inc/meta-boxes.php:862
+#: marine/inc/meta-boxes.php:1242 marine/inc/shortcodes/shortcodes.php:711
+msgid "Background Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:785 marine/inc/shortcodes/shortcodes.php:722
+msgid "Horizontal Line"
+msgstr ""
+
+#: marine/inc/shortcodes.php:802 marine/inc/shortcodes_vc.php:977
+#: marine/inc/shortcodes/shortcodes.php:739
+#: marine/inc/shortcodes/shortcodes_vc.php:869
+msgid "Dropcaps"
+msgstr ""
+
+#: marine/inc/shortcodes.php:804 marine/inc/shortcodes/shortcodes.php:741
+msgid "type - circle - optional"
+msgstr ""
+
+#: marine/inc/shortcodes.php:839 marine/inc/shortcodes_vc.php:1015
+#: marine/inc/shortcodes/shortcodes.php:776
+#: marine/inc/shortcodes/shortcodes_vc.php:907
+msgid "Heading"
+msgstr ""
+
+#: marine/inc/shortcodes.php:865 marine/inc/shortcodes.php:1571
+#: marine/inc/shortcodes.php:2323 marine/inc/shortcodes.php:2535
+#: marine/inc/shortcodes_vc.php:1046 marine/inc/shortcodes_vc.php:3079
+#: marine/inc/shortcodes_vc.php:3366 marine/inc/shortcodes/shortcodes.php:802
+#: marine/inc/shortcodes/shortcodes.php:1388
+#: marine/inc/shortcodes/shortcodes.php:2120
+#: marine/inc/shortcodes/shortcodes.php:2323
+#: marine/inc/shortcodes/shortcodes_vc.php:938
+#: marine/inc/shortcodes/shortcodes_vc.php:2790
+#: marine/inc/shortcodes/shortcodes_vc.php:3066
+msgid "Align"
+msgstr ""
+
+#: marine/inc/shortcodes.php:867 marine/inc/shortcodes_vc.php:1050
+#: marine/inc/shortcodes/shortcodes.php:804
+#: marine/inc/shortcodes/shortcodes_vc.php:942
+msgid "Left (default)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:883 marine/inc/shortcodes_vc.php:1072
+#: marine/inc/shortcodes/shortcodes.php:820
+#: marine/inc/shortcodes/shortcodes_vc.php:964
+msgid "Featured projects"
+msgstr ""
+
+#: marine/inc/shortcodes.php:891 marine/inc/shortcodes_vc.php:1082
+#: marine/inc/shortcodes/shortcodes.php:828
+#: marine/inc/shortcodes/shortcodes_vc.php:974
+msgid "Full Width"
+msgstr ""
+
+#: marine/inc/shortcodes.php:900 marine/inc/shortcodes.php:945
+#: marine/inc/shortcodes.php:1009 marine/inc/shortcodes.php:1083
+#: marine/inc/shortcodes.php:1673 marine/inc/shortcodes.php:2428
+#: marine/inc/shortcodes_vc.php:1093 marine/inc/shortcodes_vc.php:1156
+#: marine/inc/shortcodes_vc.php:1247 marine/inc/shortcodes_vc.php:1350
+#: marine/inc/shortcodes_vc.php:2143 marine/inc/shortcodes_vc.php:3206
+#: marine/inc/shortcodes/shortcodes.php:837
+#: marine/inc/shortcodes/shortcodes.php:882
+#: marine/inc/shortcodes/shortcodes.php:946
+#: marine/inc/shortcodes/shortcodes.php:1490
+#: marine/inc/shortcodes/shortcodes.php:2216
+#: marine/inc/shortcodes/shortcodes_vc.php:985
+#: marine/inc/shortcodes/shortcodes_vc.php:1048
+#: marine/inc/shortcodes/shortcodes_vc.php:1139
+#: marine/inc/shortcodes/shortcodes_vc.php:1876
+#: marine/inc/shortcodes/shortcodes_vc.php:2917
+msgid "Category ID"
+msgstr ""
+
+#: marine/inc/shortcodes.php:905 marine/inc/shortcodes.php:950
+#: marine/inc/shortcodes.php:1014 marine/inc/shortcodes.php:1088
+#: marine/inc/shortcodes.php:1678 marine/inc/shortcodes.php:1842
+#: marine/inc/shortcodes.php:2101 marine/inc/shortcodes.php:2121
+#: marine/inc/shortcodes.php:2433 marine/inc/shortcodes_vc.php:1100
+#: marine/inc/shortcodes_vc.php:1163 marine/inc/shortcodes_vc.php:1254
+#: marine/inc/shortcodes_vc.php:1357 marine/inc/shortcodes_vc.php:2150
+#: marine/inc/shortcodes_vc.php:2372 marine/inc/shortcodes_vc.php:2759
+#: marine/inc/shortcodes_vc.php:2790 marine/inc/shortcodes_vc.php:3224
+#: marine/inc/shortcodes/shortcodes.php:842
+#: marine/inc/shortcodes/shortcodes.php:887
+#: marine/inc/shortcodes/shortcodes.php:951
+#: marine/inc/shortcodes/shortcodes.php:1495
+#: marine/inc/shortcodes/shortcodes.php:1649
+#: marine/inc/shortcodes/shortcodes.php:1908
+#: marine/inc/shortcodes/shortcodes.php:1928
+#: marine/inc/shortcodes/shortcodes.php:2221
+#: marine/inc/shortcodes/shortcodes_vc.php:992
+#: marine/inc/shortcodes/shortcodes_vc.php:1055
+#: marine/inc/shortcodes/shortcodes_vc.php:1146
+#: marine/inc/shortcodes/shortcodes_vc.php:1883
+#: marine/inc/shortcodes/shortcodes_vc.php:2094
+#: marine/inc/shortcodes/shortcodes_vc.php:2481
+#: marine/inc/shortcodes/shortcodes_vc.php:2512
+#: marine/inc/shortcodes/shortcodes_vc.php:2924
+msgid "Limit"
+msgstr ""
+
+#: marine/inc/shortcodes.php:913 marine/inc/shortcodes_vc.php:1114
+#: marine/inc/shortcodes/shortcodes.php:850
+#: marine/inc/shortcodes/shortcodes_vc.php:1006
+msgid "Featured projects 2"
+msgstr ""
+
+#: marine/inc/shortcodes.php:921 marine/inc/shortcodes.php:985
+#: marine/inc/shortcodes.php:1059 marine/inc/shortcodes_vc.php:1124
+#: marine/inc/shortcodes_vc.php:1215 marine/inc/shortcodes_vc.php:1318
+#: marine/inc/shortcodes/shortcodes.php:858
+#: marine/inc/shortcodes/shortcodes.php:922
+#: marine/inc/shortcodes/shortcodes_vc.php:1016
+#: marine/inc/shortcodes/shortcodes_vc.php:1107
+msgid "Category filter"
+msgstr ""
+
+#: marine/inc/shortcodes.php:930 marine/inc/shortcodes.php:994
+#: marine/inc/shortcodes.php:1068 marine/inc/shortcodes_vc.php:1135
+#: marine/inc/shortcodes_vc.php:1226 marine/inc/shortcodes_vc.php:1329
+#: marine/inc/shortcodes/shortcodes.php:867
+#: marine/inc/shortcodes/shortcodes.php:931
+#: marine/inc/shortcodes/shortcodes_vc.php:1027
+#: marine/inc/shortcodes/shortcodes_vc.php:1118
+msgid "Category filter color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:935 marine/inc/shortcodes.php:999
+#: marine/inc/shortcodes.php:1073 marine/inc/shortcodes_vc.php:1142
+#: marine/inc/shortcodes_vc.php:1233 marine/inc/shortcodes_vc.php:1336
+#: marine/inc/shortcodes/shortcodes.php:872
+#: marine/inc/shortcodes/shortcodes.php:936
+#: marine/inc/shortcodes/shortcodes_vc.php:1034
+#: marine/inc/shortcodes/shortcodes_vc.php:1125
+msgid "Category filter background color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:940 marine/inc/shortcodes.php:1004
+#: marine/inc/shortcodes.php:1078 marine/inc/shortcodes/shortcodes.php:877
+#: marine/inc/shortcodes/shortcodes.php:941
+msgid "Category filter border"
+msgstr ""
+
+#: marine/inc/shortcodes.php:960 marine/inc/shortcodes.php:1024
+#: marine/inc/shortcodes.php:1112 marine/inc/shortcodes.php:1143
+#: marine/inc/shortcodes.php:1461 marine/inc/shortcodes.php:1935
+#: marine/inc/shortcodes_vc.php:874 marine/inc/shortcodes_vc.php:1177
+#: marine/inc/shortcodes_vc.php:1268 marine/inc/shortcodes_vc.php:1395
+#: marine/inc/shortcodes_vc.php:1441 marine/inc/shortcodes_vc.php:1851
+#: marine/inc/shortcodes_vc.php:1949 marine/inc/shortcodes_vc.php:2414
+#: marine/inc/shortcodes_vc.php:2497 marine/inc/shortcodes/shortcodes.php:897
+#: marine/inc/shortcodes/shortcodes.php:961
+#: marine/inc/shortcodes/shortcodes.php:1000
+#: marine/inc/shortcodes/shortcodes.php:1031
+#: marine/inc/shortcodes/shortcodes.php:1742
+#: marine/inc/shortcodes/shortcodes_vc.php:766
+#: marine/inc/shortcodes/shortcodes_vc.php:1069
+#: marine/inc/shortcodes/shortcodes_vc.php:1160
+#: marine/inc/shortcodes/shortcodes_vc.php:1217
+#: marine/inc/shortcodes/shortcodes_vc.php:1263
+#: marine/inc/shortcodes/shortcodes_vc.php:1682
+#: marine/inc/shortcodes/shortcodes_vc.php:2136
+#: marine/inc/shortcodes/shortcodes_vc.php:2219
+msgid "Title color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:970 marine/inc/shortcodes.php:1034
+#: marine/inc/shortcodes.php:1154 marine/inc/shortcodes_vc.php:1191
+#: marine/inc/shortcodes_vc.php:1282 marine/inc/shortcodes_vc.php:1456
+#: marine/inc/shortcodes_vc.php:2421 marine/inc/shortcodes/shortcodes.php:907
+#: marine/inc/shortcodes/shortcodes.php:971
+#: marine/inc/shortcodes/shortcodes.php:1042
+#: marine/inc/shortcodes/shortcodes_vc.php:1083
+#: marine/inc/shortcodes/shortcodes_vc.php:1174
+#: marine/inc/shortcodes/shortcodes_vc.php:1278
+#: marine/inc/shortcodes/shortcodes_vc.php:2143
+msgid "Subtitle color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:977 marine/inc/shortcodes_vc.php:1205
+#: marine/inc/shortcodes/shortcodes.php:914
+#: marine/inc/shortcodes/shortcodes_vc.php:1097
+msgid "Featured projects 3"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1039 marine/inc/shortcodes_vc.php:1289
+#: marine/inc/shortcodes/shortcodes.php:976
+#: marine/inc/shortcodes/shortcodes_vc.php:1181
+msgid "Items per row"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1051 marine/inc/shortcodes_vc.php:1308
+msgid "Featured projects 4"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1093 marine/inc/shortcodes_vc.php:1364
+msgid "Hover color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1100 marine/inc/shortcodes_vc.php:1378
+#: marine/inc/shortcodes/shortcodes.php:988
+#: marine/inc/shortcodes/shortcodes_vc.php:1200
+msgid "Food menu slider"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1109 marine/inc/shortcodes.php:1140
+#: marine/inc/shortcodes_vc.php:1437 marine/inc/shortcodes/shortcodes.php:997
+#: marine/inc/shortcodes/shortcodes.php:1028
+#: marine/inc/shortcodes/shortcodes_vc.php:1259
+#, php-format
+msgid ""
+"Title will be added to the category name. Example of use: \"Our %s\" where "
+"%s will be replace with category name"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1118 marine/inc/shortcodes.php:1149
+#: marine/inc/shortcodes.php:1941 marine/inc/shortcodes_vc.php:1402
+#: marine/inc/shortcodes_vc.php:1448 marine/inc/shortcodes_vc.php:2503
+#: marine/inc/theme-options.php:1032 marine/inc/shortcodes/shortcodes.php:1006
+#: marine/inc/shortcodes/shortcodes.php:1037
+#: marine/inc/shortcodes/shortcodes.php:1748
+#: marine/inc/shortcodes/shortcodes_vc.php:1224
+#: marine/inc/shortcodes/shortcodes_vc.php:1270
+#: marine/inc/shortcodes/shortcodes_vc.php:2225
+msgid "Title font"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1131 marine/inc/shortcodes_vc.php:1424
+#: marine/inc/shortcodes/shortcodes.php:1019
+#: marine/inc/shortcodes/shortcodes_vc.php:1246
+msgid "Food menu slider 2"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1172 marine/inc/shortcodes_vc.php:1484
+#: marine/inc/shortcodes/shortcodes.php:1060
+#: marine/inc/shortcodes/shortcodes_vc.php:1306
+#: marine/framework/framework.php:1243
+msgid "Form"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1194 marine/inc/shortcodes_vc.php:1511
+#: marine/inc/shortcodes/shortcodes.php:1082
+#: marine/inc/shortcodes/shortcodes_vc.php:1333
+msgid "Success message"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1199 marine/inc/shortcodes_vc.php:1518
+#: marine/inc/shortcodes/shortcodes.php:1087
+#: marine/inc/shortcodes/shortcodes_vc.php:1340
+msgid "Send button text"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1204 marine/inc/shortcodes_vc.php:1525
+#: marine/inc/shortcodes/shortcodes.php:1092
+#: marine/inc/shortcodes/shortcodes_vc.php:1347
+msgid "Clear button text"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1208 marine/inc/shortcodes/shortcodes.php:1096
+msgid "Add Field"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1210 marine/inc/shortcodes_vc.php:1543
+#: marine/inc/shortcodes/shortcodes.php:1098
+#: marine/inc/shortcodes/shortcodes_vc.php:1365
+msgid "Field"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: marine/inc/shortcodes.php:1215 marine/inc/shortcodes_vc.php:1550
+#: marine/inc/shortcodes/shortcodes.php:1103
+#: marine/inc/shortcodes/shortcodes_vc.php:1372
+#: marine/woocommerce/single-product-reviews.php:63
+msgid "Name"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1224 marine/inc/shortcodes_vc.php:1562
+#: marine/inc/shortcodes/shortcodes.php:1112
+#: marine/inc/shortcodes/shortcodes_vc.php:1384
+msgid "Textarea"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: marine/inc/shortcodes.php:1225 marine/inc/shortcodes_vc.php:1563
+#: marine/inc/theme-options.php:1804 marine/inc/shortcodes/shortcodes.php:1113
+#: marine/inc/shortcodes/shortcodes_vc.php:1385
+#: marine/woocommerce/single-product-reviews.php:65
+msgid "Email"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:1232 marine/inc/shortcodes_vc.php:1569
+#: marine/inc/shortcodes/shortcodes.php:1120
+#: marine/inc/shortcodes/shortcodes_vc.php:1391
+#: marine/framework/class/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1253 marine/inc/shortcodes_vc.php:1600
+#: marine/inc/shortcodes/shortcodes.php:1141
+#: marine/inc/shortcodes/shortcodes_vc.php:1422
+msgid "Highlight"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1271 marine/inc/meta-boxes.php:708
+#: marine/inc/meta-boxes.php:1491 marine/inc/shortcodes_vc.php:1624
+#: marine/inc/theme-options.php:303 marine/inc/shortcodes/shortcodes.php:1159
+#: marine/inc/shortcodes/shortcodes_vc.php:1446
+msgid "Background image"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1276 marine/inc/meta-boxes.php:1584
+#: marine/inc/shortcodes_vc.php:1631 marine/inc/theme-options.php:378
+#: marine/inc/shortcodes/shortcodes.php:1164
+#: marine/inc/shortcodes/shortcodes_vc.php:1453
+msgid "Background attachment"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1278 marine/inc/shortcodes/shortcodes.php:1166
+msgid "scroll"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1279 marine/inc/shortcodes/shortcodes.php:1167
+msgid "fixed"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1286 marine/inc/meta-boxes.php:1529
+#: marine/inc/shortcodes_vc.php:1642 marine/inc/theme-options.php:349
+#: marine/inc/shortcodes/shortcodes.php:1174
+#: marine/inc/shortcodes/shortcodes_vc.php:1464
+msgid "Background position"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1288 marine/inc/meta-boxes.php:1537
+#: marine/inc/shortcodes_vc.php:1646 marine/inc/theme-options.php:514
+#: marine/inc/shortcodes/shortcodes.php:1176
+#: marine/inc/shortcodes/shortcodes_vc.php:1468
+msgid "left top"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1289 marine/inc/meta-boxes.php:1542
+#: marine/inc/shortcodes_vc.php:1647 marine/inc/theme-options.php:519
+#: marine/inc/shortcodes/shortcodes.php:1177
+#: marine/inc/shortcodes/shortcodes_vc.php:1469
+msgid "left center"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1290 marine/inc/meta-boxes.php:1547
+#: marine/inc/shortcodes_vc.php:1648 marine/inc/theme-options.php:524
+#: marine/inc/shortcodes/shortcodes.php:1178
+#: marine/inc/shortcodes/shortcodes_vc.php:1470
+msgid "left bottom"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1291 marine/inc/meta-boxes.php:1552
+#: marine/inc/shortcodes_vc.php:1649 marine/inc/theme-options.php:529
+#: marine/inc/shortcodes/shortcodes.php:1179
+#: marine/inc/shortcodes/shortcodes_vc.php:1471
+msgid "right top"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1292 marine/inc/meta-boxes.php:1557
+#: marine/inc/shortcodes_vc.php:1650 marine/inc/theme-options.php:534
+#: marine/inc/shortcodes/shortcodes.php:1180
+#: marine/inc/shortcodes/shortcodes_vc.php:1472
+msgid "right center"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1293 marine/inc/meta-boxes.php:1562
+#: marine/inc/shortcodes_vc.php:1651 marine/inc/theme-options.php:539
+#: marine/inc/shortcodes/shortcodes.php:1181
+#: marine/inc/shortcodes/shortcodes_vc.php:1473
+msgid "right bottom"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1294 marine/inc/meta-boxes.php:1567
+#: marine/inc/shortcodes_vc.php:1652 marine/inc/theme-options.php:544
+#: marine/inc/shortcodes/shortcodes.php:1182
+#: marine/inc/shortcodes/shortcodes_vc.php:1474
+msgid "center top"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1295 marine/inc/meta-boxes.php:1572
+#: marine/inc/shortcodes_vc.php:1653 marine/inc/theme-options.php:549
+#: marine/inc/shortcodes/shortcodes.php:1183
+#: marine/inc/shortcodes/shortcodes_vc.php:1475
+msgid "center center"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1296 marine/inc/meta-boxes.php:1577
+#: marine/inc/shortcodes_vc.php:1654 marine/inc/theme-options.php:554
+#: marine/inc/shortcodes/shortcodes.php:1184
+#: marine/inc/shortcodes/shortcodes_vc.php:1476
+msgid "center bottom"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1303 marine/inc/shortcodes_vc.php:1660
+#: marine/inc/shortcodes/shortcodes.php:1191
+#: marine/inc/shortcodes/shortcodes_vc.php:1482
+msgid "Background stretch"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1313 marine/inc/meta-boxes.php:1624
+#: marine/inc/shortcodes/shortcodes.php:1201
+msgid "Background video"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1318 marine/inc/shortcodes/shortcodes.php:1206
+msgid "Video format"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1320 marine/inc/meta-boxes.php:1640
+#: marine/inc/shortcodes_vc.php:1682 marine/inc/shortcodes/shortcodes.php:1208
+#: marine/inc/shortcodes/shortcodes_vc.php:1504
+msgid "MP4"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1321 marine/inc/meta-boxes.php:1645
+#: marine/inc/shortcodes_vc.php:1683 marine/inc/shortcodes/shortcodes.php:1209
+#: marine/inc/shortcodes/shortcodes_vc.php:1505
+msgid "WebM"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1322 marine/inc/shortcodes_vc.php:1684
+#: marine/inc/shortcodes/shortcodes.php:1210
+#: marine/inc/shortcodes/shortcodes_vc.php:1506
+msgid "Ogg"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1329 marine/inc/shortcodes_vc.php:1690
+#: marine/inc/theme-options.php:290 marine/inc/shortcodes/shortcodes.php:1217
+#: marine/inc/shortcodes/shortcodes_vc.php:1512
+msgid "Background pattern"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1331 marine/inc/shortcodes_vc.php:1694
+#: marine/inc/shortcodes/shortcodes.php:1219
+#: marine/inc/shortcodes/shortcodes_vc.php:1516
+msgid "No pattern"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1332 marine/inc/shortcodes_vc.php:1695
+#: marine/inc/theme-options.php:1457 marine/inc/shortcodes/shortcodes.php:1220
+#: marine/inc/shortcodes/shortcodes_vc.php:1517
+msgid "Grid"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1339 marine/inc/shortcodes_vc.php:1701
+#: marine/inc/shortcodes/shortcodes.php:1227
+#: marine/inc/shortcodes/shortcodes_vc.php:1523
+msgid "Background pattern color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1344 marine/inc/shortcodes_vc.php:1708
+#: marine/inc/shortcodes/shortcodes.php:1232
+#: marine/inc/shortcodes/shortcodes_vc.php:1530
+msgid "Background pattern color transparency (%)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1351 marine/inc/shortcodes_vc.php:1716
+#: marine/inc/shortcodes/shortcodes.php:1239
+#: marine/inc/shortcodes/shortcodes_vc.php:1538
+msgid "Minimum height (px)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1377 marine/inc/shortcodes/shortcodes.php:1265
+msgid "Padding top (px)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1383 marine/inc/shortcodes/shortcodes.php:1271
+msgid "Padding bottom (px)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1389 marine/inc/shortcodes.php:2318
+#: marine/inc/shortcodes_vc.php:3072 marine/inc/shortcodes/shortcodes.php:1277
+#: marine/inc/shortcodes/shortcodes.php:2115
+#: marine/inc/shortcodes/shortcodes_vc.php:2783
+msgid "Margin bottom (px)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1395 marine/inc/shortcodes.php:1782
+#: marine/inc/shortcodes/shortcodes.php:1283
+#: marine/inc/shortcodes/shortcodes.php:1599
+msgid "Full width"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1420 marine/inc/shortcodes.php:1497
+#: marine/inc/shortcodes_vc.php:1803 marine/inc/shortcodes_vc.php:1919
+#: marine/inc/shortcodes/shortcodes.php:1314
+#: marine/inc/shortcodes/shortcodes_vc.php:1652
+msgid "Icon (choose or upload below)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1428
+msgid "Upload icon (choose or enter value below)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1433 marine/inc/shortcodes_vc.php:853
+#: marine/inc/shortcodes_vc.php:1816 marine/inc/shortcodes_vc.php:1934
+#: marine/inc/shortcodes/shortcodes_vc.php:745
+#: marine/inc/shortcodes/shortcodes_vc.php:1667
+msgid "Icon color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1443 marine/inc/shortcodes_vc.php:1830
+msgid "Title font size (px)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1448 marine/inc/shortcodes_vc.php:1837
+msgid "Title font weight"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1451 marine/inc/shortcodes.php:2287
+#: marine/inc/shortcodes.php:2299 marine/inc/meta-boxes.php:1045
+#: marine/inc/shortcodes_vc.php:1842 marine/inc/shortcodes_vc.php:3037
+#: marine/inc/shortcodes_vc.php:3050 marine/inc/theme-options.php:691
+#: marine/inc/shortcodes/shortcodes.php:2094
+#: marine/inc/shortcodes/shortcodes_vc.php:2759
+msgid "Normal"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1452 marine/inc/shortcodes.php:2288
+#: marine/inc/shortcodes_vc.php:1843 marine/inc/shortcodes_vc.php:3038
+#: marine/inc/shortcodes/shortcodes.php:2095
+#: marine/inc/shortcodes/shortcodes_vc.php:2760
+msgid "Bold"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1453 marine/inc/shortcodes.php:2289
+#: marine/inc/shortcodes_vc.php:1844 marine/inc/shortcodes_vc.php:3039
+#: marine/inc/shortcodes/shortcodes.php:2096
+#: marine/inc/shortcodes/shortcodes_vc.php:2761
+msgid "Bolder"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1454 marine/inc/shortcodes.php:2290
+#: marine/inc/shortcodes.php:2451 marine/inc/shortcodes_vc.php:1845
+#: marine/inc/shortcodes_vc.php:3040 marine/inc/shortcodes_vc.php:3249
+#: marine/inc/shortcodes/shortcodes.php:2097
+#: marine/inc/shortcodes/shortcodes.php:2239
+#: marine/inc/shortcodes/shortcodes_vc.php:2762
+#: marine/inc/shortcodes/shortcodes_vc.php:2949
+msgid "Light"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1471 marine/inc/shortcodes_vc.php:1865
+msgid "Content font size (px)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1476 marine/inc/shortcodes_vc.php:1872
+#: marine/inc/shortcodes_vc.php:1963
+#: marine/inc/shortcodes/shortcodes_vc.php:1696
+msgid "Content color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1484 marine/inc/shortcodes/shortcodes.php:1301
+msgid "Icon list"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1492 marine/inc/shortcodes/shortcodes.php:1309
+msgid "Icon List item"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1504 marine/inc/shortcodes_vc.php:1809
+#: marine/inc/shortcodes_vc.php:1926 marine/inc/shortcodes/shortcodes.php:1321
+#: marine/inc/shortcodes/shortcodes_vc.php:1659
+msgid "Upload icon"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1530 marine/inc/shortcodes/shortcodes.php:1347
+msgid "Content Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1535 marine/inc/shortcodes.php:2152
+#: marine/inc/shortcodes/shortcodes.php:1352
+#: marine/inc/shortcodes/shortcodes.php:1959
+msgid "Border Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1558 marine/inc/shortcodes_vc.php:2006
+#: marine/inc/shortcodes/shortcodes.php:1375
+#: marine/inc/shortcodes/shortcodes_vc.php:1739
+msgid "Image width"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1560 marine/inc/shortcodes_vc.php:2010
+#: marine/inc/shortcodes/shortcodes.php:1377
+#: marine/inc/shortcodes/shortcodes_vc.php:1743
+msgid "dont scale"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1561 marine/inc/shortcodes_vc.php:2011
+#: marine/inc/shortcodes/shortcodes.php:1378
+#: marine/inc/shortcodes/shortcodes_vc.php:1744
+msgid "full"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1562 marine/inc/shortcodes_vc.php:2012
+#: marine/inc/shortcodes/shortcodes.php:1379
+#: marine/inc/shortcodes/shortcodes_vc.php:1745
+msgid "half"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1563 marine/inc/shortcodes_vc.php:2013
+#: marine/inc/shortcodes/shortcodes.php:1380
+#: marine/inc/shortcodes/shortcodes_vc.php:1746
+msgid "1/3"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1564 marine/inc/shortcodes_vc.php:2014
+#: marine/inc/shortcodes/shortcodes.php:1381
+#: marine/inc/shortcodes/shortcodes_vc.php:1747
+msgid "1/4"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1573 marine/inc/shortcodes/shortcodes.php:1390
+msgid "none"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1574 marine/inc/shortcodes/shortcodes.php:1391
+msgid "left"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1575 marine/inc/shortcodes/shortcodes.php:1392
+msgid "right"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1576 marine/inc/shortcodes/shortcodes.php:1393
+msgid "center"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1602 marine/inc/shortcodes_vc.php:2047
+#: marine/inc/shortcodes/shortcodes.php:1419
+#: marine/inc/shortcodes/shortcodes_vc.php:1780
+msgid "Info Box"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1617 marine/inc/shortcodes/shortcodes.php:1434
+msgid "Sub-title"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1622 marine/inc/shortcodes/shortcodes.php:1439
+msgid "Box Background"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1632 marine/inc/shortcodes.php:2030
+#: marine/inc/shortcodes_vc.php:2635 marine/inc/shortcodes/shortcodes.php:1449
+#: marine/inc/shortcodes/shortcodes.php:1837
+#: marine/inc/shortcodes/shortcodes_vc.php:2357
+msgid "Button Text"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1642 marine/inc/shortcodes/shortcodes.php:1459
+msgid "Button Text Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1665 marine/inc/shortcodes_vc.php:2133
+#: marine/inc/shortcodes/shortcodes.php:1482
+#: marine/inc/shortcodes/shortcodes_vc.php:1866
+msgid "Latest works"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1686 marine/inc/shortcodes_vc.php:2165
+#: marine/inc/theme-options.php:1447 marine/inc/shortcodes/shortcodes.php:1503
+#: marine/inc/shortcodes/shortcodes_vc.php:1898
+msgid "List"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1693 marine/inc/shortcodes/shortcodes.php:1510
+msgid "Add List Item"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1695 marine/inc/shortcodes/shortcodes.php:1512
+msgid "List item"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1716 marine/inc/shortcodes_vc.php:2189
+#: marine/inc/shortcodes/shortcodes.php:1533
+#: marine/inc/shortcodes/shortcodes_vc.php:1922
+msgid "Logos"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1725 marine/inc/shortcodes.php:2185
+#: marine/inc/shortcodes/shortcodes.php:1542
+#: marine/inc/shortcodes/shortcodes.php:1992
+#: marine/woocommerce/cart/cart.php:24
+msgid "Item"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1760 marine/inc/shortcodes_vc.php:2260
+#: marine/inc/shortcodes/shortcodes.php:1577
+#: marine/inc/shortcodes/shortcodes_vc.php:1993
+msgid "Map container"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1767 marine/inc/shortcodes_vc.php:2270
+#: marine/inc/shortcodes/shortcodes.php:1584
+#: marine/inc/shortcodes/shortcodes_vc.php:2003
+msgid "Address"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1768 marine/inc/shortcodes_vc.php:2273
+#: marine/inc/shortcodes/shortcodes.php:1585
+#: marine/inc/shortcodes/shortcodes_vc.php:2006
+msgid "Leave empty if you want to use Google Maps plugin"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1772 marine/inc/shortcodes_vc.php:2277
+#: marine/inc/shortcodes/shortcodes.php:1589
+#: marine/inc/shortcodes/shortcodes_vc.php:2010
+#: marine/woocommerce/single-product/product-thumbnails.php:45
+#: marine/woocommerce/single-product/product-image.php:47
+msgid "Zoom"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1773 marine/inc/shortcodes_vc.php:2280
+#: marine/inc/shortcodes/shortcodes.php:1590
+#: marine/inc/shortcodes/shortcodes_vc.php:2013
+msgid "Zoom level, default: 14"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1777 marine/inc/shortcodes/shortcodes.php:1594
+msgid "Custom marker URL"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1792 marine/inc/shortcodes_vc.php:2302
+msgid "Grayscale"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:1802 marine/inc/shortcodes_vc.php:2313
+#: marine/inc/shortcodes/shortcodes.php:1609
+#: marine/inc/shortcodes/shortcodes_vc.php:2035
+msgid "Height"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1807 marine/inc/shortcodes_vc.php:2320
+#: marine/inc/shortcodes/shortcodes.php:1614
+#: marine/inc/shortcodes/shortcodes_vc.php:2042
+msgid "Marker offset"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1808 marine/inc/shortcodes/shortcodes.php:1615
+msgid "Moves marker to the top"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1834
+#: marine/inc/widgets/WP_Multi_Posts_Widget.class.php:19
+#: marine/inc/shortcodes/shortcodes.php:1641
+msgid "Multi Posts"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1849 marine/inc/shortcodes.php:1953
+#: marine/inc/shortcodes_vc.php:2386 marine/inc/shortcodes/shortcodes.php:1656
+#: marine/inc/shortcodes/shortcodes.php:1760
+#: marine/inc/shortcodes/shortcodes_vc.php:2108
+msgid "Person"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1857 marine/inc/shortcodes_vc.php:2396
+#: marine/inc/shortcodes/shortcodes.php:1664
+#: marine/inc/shortcodes/shortcodes_vc.php:2118
+msgid "Person ID"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1876 marine/inc/shortcodes/shortcodes.php:1683
+msgid "Sub Title Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1887 marine/inc/shortcodes/shortcodes.php:1694
+msgid "Divider Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1892 marine/inc/shortcodes/shortcodes.php:1699
+msgid "Social Icon Color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1918 marine/inc/shortcodes_vc.php:2476
+#: marine/inc/shortcodes/shortcodes.php:1725
+#: marine/inc/shortcodes/shortcodes_vc.php:2198
+msgid "Person slider"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1930 marine/inc/shortcodes_vc.php:2491
+#: marine/inc/shortcodes/shortcodes.php:1737
+#: marine/inc/shortcodes/shortcodes_vc.php:2213
+msgid "Title first word color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1951 marine/inc/shortcodes/shortcodes.php:1758
+msgid "Add Person"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1958 marine/inc/shortcodes_vc.php:2529
+#: marine/inc/shortcodes/shortcodes.php:1765
+#: marine/inc/shortcodes/shortcodes_vc.php:2251
+msgid "ID"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1971 marine/inc/shortcodes/shortcodes.php:1778
+msgid "Pricing table"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1993 marine/inc/shortcodes/shortcodes.php:1800
+msgid "Add Column"
+msgstr ""
+
+#: marine/inc/shortcodes.php:1995 marine/inc/shortcodes/shortcodes.php:1802
+msgid "Column"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2000 marine/inc/shortcodes_vc.php:2596
+#: marine/inc/shortcodes/shortcodes.php:1807
+#: marine/inc/shortcodes/shortcodes_vc.php:2318
+msgid "Featured (only one column should be featured)"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: marine/inc/shortcodes.php:2015 marine/inc/meta-boxes.php:1739
+#: marine/inc/shortcodes_vc.php:2614 marine/inc/shortcodes/shortcodes.php:1822
+#: marine/inc/shortcodes/shortcodes_vc.php:2336
+msgid "Price"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2020 marine/inc/shortcodes_vc.php:2621
+#: marine/inc/shortcodes/shortcodes.php:1827
+#: marine/inc/shortcodes/shortcodes_vc.php:2343
+msgid "Currency"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2025 marine/inc/shortcodes_vc.php:2628
+#: marine/inc/shortcodes/shortcodes.php:1832
+#: marine/inc/shortcodes/shortcodes_vc.php:2350
+msgid "Period"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2039 marine/inc/shortcodes/shortcodes.php:1846
+msgid "Add Row"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2041 marine/inc/shortcodes/shortcodes.php:1848
+msgid "Row"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2046 marine/inc/shortcodes_vc.php:2666
+#: marine/inc/shortcodes/shortcodes.php:1853
+#: marine/inc/shortcodes/shortcodes_vc.php:2388
+msgid "Value"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2050 marine/inc/shortcodes_vc.php:2671
+#: marine/inc/shortcodes/shortcodes.php:1857
+#: marine/inc/shortcodes/shortcodes_vc.php:2393
+msgid "Checked"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2051 marine/inc/shortcodes_vc.php:2672
+#: marine/inc/shortcodes/shortcodes.php:1858
+#: marine/inc/shortcodes/shortcodes_vc.php:2394
+msgid "Not checked"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2066 marine/inc/shortcodes/shortcodes.php:1873
+msgid "Project Gallery"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2074 marine/inc/shortcodes/shortcodes.php:1881
+msgid "Add Slider Item"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2076 marine/inc/shortcodes/shortcodes.php:1883
+msgid "Sliders item"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2086 marine/inc/shortcodes.php:2474
+#: marine/inc/shortcodes.php:2486 marine/inc/shortcodes_vc.php:2730
+#: marine/inc/shortcodes_vc.php:3287 marine/inc/shortcodes_vc.php:3304
+#: marine/inc/shortcodes/shortcodes.php:1893
+#: marine/inc/shortcodes/shortcodes.php:2262
+#: marine/inc/shortcodes/shortcodes.php:2274
+#: marine/inc/shortcodes/shortcodes_vc.php:2452
+#: marine/inc/shortcodes/shortcodes_vc.php:2987
+#: marine/inc/shortcodes/shortcodes_vc.php:3004
+msgid "Tooltip"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2094 marine/inc/shortcodes_vc.php:2749
+#: marine/inc/shortcodes/shortcodes.php:1901
+#: marine/inc/shortcodes/shortcodes_vc.php:2471
+msgid "Recent News Big"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2109 marine/inc/shortcodes_vc.php:2773
+#: marine/inc/shortcodes/shortcodes.php:1916
+#: marine/inc/shortcodes/shortcodes_vc.php:2495
+msgid "Recent Posts"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2129 marine/inc/shortcodes/shortcodes.php:1936
+msgid "Skill bars"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2155 marine/inc/shortcodes/shortcodes.php:1962
+msgid "Add Skill Bar"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2157 marine/inc/shortcodes/shortcodes.php:1964
+msgid "Skill bar"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2162 marine/inc/shortcodes_vc.php:2853
+#: marine/inc/shortcodes/shortcodes.php:1969
+#: marine/inc/shortcodes/shortcodes_vc.php:2575
+msgid "Percentage"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2176 marine/inc/theme-options.php:2347
+#: marine/inc/shortcodes/shortcodes.php:1983
+msgid "Social icons"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2237 marine/inc/shortcodes_vc.php:2968
+#: marine/inc/shortcodes/shortcodes.php:2044
+#: marine/inc/shortcodes/shortcodes_vc.php:2690
+msgid "Space"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2244 marine/inc/shortcodes_vc.php:2978
+#: marine/inc/shortcodes/shortcodes.php:2051
+#: marine/inc/shortcodes/shortcodes_vc.php:2700
+msgid "Height (px)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2251 marine/inc/shortcodes/shortcodes.php:2058
+msgid "Special text"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2259 marine/inc/shortcodes_vc.php:3002
+#: marine/inc/shortcodes/shortcodes.php:2066
+#: marine/inc/shortcodes/shortcodes_vc.php:2724
+msgid "Tag name"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2274 marine/inc/shortcodes_vc.php:3018
+#: marine/inc/shortcodes/shortcodes.php:2081
+#: marine/inc/shortcodes/shortcodes_vc.php:2740
+msgid "Font color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2279 marine/inc/shortcodes_vc.php:3025
+#: marine/inc/shortcodes/shortcodes.php:2086
+#: marine/inc/shortcodes/shortcodes_vc.php:2747
+msgid "Font size"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2284 marine/inc/shortcodes_vc.php:3032
+#: marine/inc/shortcodes/shortcodes.php:2091
+#: marine/inc/shortcodes/shortcodes_vc.php:2754
+msgid "Font weight"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2297 marine/inc/shortcodes_vc.php:3046
+msgid "Font style"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2300 marine/inc/shortcodes_vc.php:3051
+msgid "Italic"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2307 marine/inc/shortcodes_vc.php:3057
+#: marine/inc/shortcodes/shortcodes.php:2104
+#: marine/inc/shortcodes/shortcodes_vc.php:2768
+msgid "Font"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2313 marine/inc/shortcodes_vc.php:3065
+#: marine/inc/shortcodes/shortcodes.php:2110
+#: marine/inc/shortcodes/shortcodes_vc.php:2776
+msgid "Margin top (px)"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2341 marine/inc/shortcodes/shortcodes.php:2138
+msgid "Tabs"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2349 marine/inc/shortcodes/shortcodes.php:2146
+msgid "Orientation"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2351 marine/inc/shortcodes_vc.php:3117
+#: marine/inc/shortcodes/shortcodes.php:2148
+#: marine/inc/shortcodes/shortcodes_vc.php:2828
+msgid "horizontal"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2352 marine/inc/shortcodes_vc.php:3118
+#: marine/inc/shortcodes/shortcodes.php:2149
+#: marine/inc/shortcodes/shortcodes_vc.php:2829
+msgid "vertical"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2359 marine/inc/shortcodes.php:2580
+#: marine/inc/shortcodes.php:2590 marine/inc/shortcodes/shortcodes.php:2156
+#: marine/inc/shortcodes/shortcodes.php:2368
+#: marine/inc/shortcodes/shortcodes.php:2378
+msgid "Animation"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2361 marine/inc/shortcodes/shortcodes.php:2158
+msgid "fadeIn"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2362 marine/inc/shortcodes/shortcodes.php:2159
+msgid "slideDown"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2367 marine/inc/shortcodes/shortcodes.php:2164
+msgid "Add Tab"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2369 marine/inc/shortcodes_vc.php:3129
+#: marine/inc/shortcodes/shortcodes.php:2166
+#: marine/inc/shortcodes/shortcodes_vc.php:2840
+msgid "Tab"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2404 marine/inc/shortcodes_vc.php:3182
+#: marine/inc/shortcodes/shortcodes.php:2201
+#: marine/inc/shortcodes/shortcodes_vc.php:2893
+msgid "Testimonial ID"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2423 marine/inc/shortcodes_vc.php:3218
+msgid "Modern"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2443 marine/inc/shortcodes_vc.php:3238
+#: marine/inc/shortcodes/shortcodes.php:2231
+#: marine/inc/shortcodes/shortcodes_vc.php:2938
+msgid "Info color"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2448 marine/inc/shortcodes_vc.php:3213
+#: marine/inc/shortcodes_vc.php:3245 marine/inc/shortcodes/shortcodes.php:2236
+#: marine/inc/shortcodes/shortcodes_vc.php:2945
+msgid "Navigation style"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2452 marine/inc/shortcodes_vc.php:3250
+#: marine/inc/shortcodes/shortcodes.php:2240
+#: marine/inc/shortcodes/shortcodes_vc.php:2950
+msgid "Dark"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2480 marine/inc/shortcodes_vc.php:3297
+#: marine/inc/shortcodes/shortcodes.php:2268
+#: marine/inc/shortcodes/shortcodes_vc.php:2997
+msgid "Label"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2492 marine/inc/meta-boxes.php:1347
+#: marine/inc/meta-boxes.php:1670 marine/inc/shortcodes_vc.php:3311
+#: marine/inc/shortcodes/shortcodes.php:2280
+#: marine/inc/shortcodes/shortcodes_vc.php:3011
+msgid "Position"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes.php:2495 marine/inc/shortcodes_vc.php:3315
+#: marine/inc/shortcodes/shortcodes.php:2283
+#: marine/inc/shortcodes/shortcodes_vc.php:3015
+msgid "Top"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2496 marine/inc/shortcodes_vc.php:3316
+#: marine/inc/shortcodes/shortcodes.php:2284
+#: marine/inc/shortcodes/shortcodes_vc.php:3016
+msgid "Bottom"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2502 marine/inc/shortcodes_vc.php:3324
+#: marine/inc/shortcodes/shortcodes.php:2290
+#: marine/inc/shortcodes/shortcodes_vc.php:3024
+msgid "Link"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2511 marine/inc/shortcodes/shortcodes.php:2299
+msgid "Video player"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2525 marine/inc/shortcodes_vc.php:3355
+#: marine/inc/shortcodes/shortcodes.php:2313
+#: marine/inc/shortcodes/shortcodes_vc.php:3055
+msgid "Autoplay"
+msgstr ""
+
+#: marine/inc/shortcodes.php:2667 marine/inc/shortcodes.php:2669
+#: marine/inc/theme-options.php:2232 marine/inc/shortcodes/shortcodes.php:2455
+#: marine/inc/shortcodes/shortcodes.php:2457
+msgid "None"
+msgstr ""
+
+#: marine/inc/header-4.php:86 marine/inc/header-1.php:79
+#: marine/inc/template-tags.php:1421 marine/inc/header-7.php:41
+#: marine/inc/header-2.php:83
+msgid "Search here.."
+msgstr ""
+
+#: marine/inc/header-8.php:15 marine/inc/header-10.php:15
+#: marine/inc/header-9.php:15 marine/inc/header-11.php:15
+#: marine/inc/theme-options.php:2363
+msgid "Menu"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:74
+msgid "Available shortcodes:"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:86
+msgid "Click to toggle"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:148 marine/inc/theme-options.php:46
+msgid "Main"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:168
+#: marine/framework/js/tinymce_ShortcodesSelector_old.js.php:28
+#: marine/framework/js/tinymce_ShortcodesSelector_old.js.php:42
+#: marine/framework/js/tinymce_ShortcodesSelector_old.js.php:72
+#: marine/framework/js/tinymce_ShortcodesSelector.js.php:20
+msgid "Shortcodes"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:181
+msgid "Post Options"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:191 marine/inc/meta-boxes.php:192
+msgid "Audio URL"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:201 marine/inc/meta-boxes.php:202
+msgid "Quote Text"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:210 marine/inc/meta-boxes.php:211
+msgid "Quote Author"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:221 marine/inc/meta-boxes.php:558
+#: marine/inc/meta-boxes.php:1708
+msgid "Video URL"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:222 marine/inc/meta-boxes.php:559
+#: marine/inc/meta-boxes.php:1709
+msgid "YouTube or Vimeo video URL"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:230 marine/inc/meta-boxes.php:567
+#: marine/inc/meta-boxes.php:1717
+msgid "Embadded Video"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:231 marine/inc/meta-boxes.php:568
+#: marine/inc/meta-boxes.php:1718
+msgid ""
+"Please use this option when the video does not come from YouTube or Vimeo"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:239 marine/inc/meta-boxes.php:576
+msgid "Gallery"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:240 marine/inc/meta-boxes.php:577
+msgid "Slider gallery images"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:268
+msgid "Page Options"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:276
+msgid "Page Builder"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:284
+msgid "Slider Content Background 1"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:291
+msgid "Slider Content Background 2"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:300
+msgid "Slider Content Background Transparency"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:355 marine/inc/shortcodes_vc.php:2349
+#: marine/inc/shortcodes/shortcodes_vc.php:2071
+msgid "Map"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:356
+msgid "Please insert map into editor below"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:364
+msgid "Contact Form Header"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:382
+msgid "Name Field Icon"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:400
+msgid "Email Field Icon"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:418
+msgid "Submit Field Label"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:427
+msgid "Clear Field Label"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:436
+msgid "Show Categories Filter"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:476
+msgid "Show contact form"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:496
+msgid "Number of items"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:497
+msgid "Number of blog or portfolio items to show"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:505 marine/inc/shortcodes_vc.php:2783
+#: marine/inc/shortcodes/shortcodes_vc.php:2505
+msgid "Excerpt length"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:506
+msgid "Custom excerpt length"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:514
+msgid "Blog categories"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:515 marine/inc/meta-boxes.php:524
+msgid "Limit list to selected categories only"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:523
+msgid "Portfolio categories"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:537
+msgid "Portfolio Options"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:546
+msgid "Work By"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:552
+msgid "Author Url"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:600 marine/inc/theme-options.php:1486
+msgid "Portfolio single style"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:616 marine/inc/theme-options.php:1498
+msgid "Basic"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:621 marine/inc/theme-options.php:1503
+msgid "Extended"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:629 marine/inc/theme-options.php:1510
+msgid "Related projects"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:630 marine/inc/theme-options.php:1511
+msgid "Show related projects on a single portfolio post"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:663 marine/inc/meta-boxes.php:1195
+msgid "Common Options"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:671 marine/inc/theme-options.php:120
+msgid "Layout"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:681 marine/inc/theme-options.php:132
+msgid "Wide 1170px"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:686 marine/inc/theme-options.php:137
+msgid "Wide 960px"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:691 marine/inc/theme-options.php:142
+msgid "Boxed 1170px"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:696 marine/inc/theme-options.php:147
+msgid "Boxed 960px"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:701 marine/inc/theme-options.php:152
+msgid "Big Boxed"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:709
+msgid "Works with boxed layouts only"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:715 marine/inc/meta-boxes.php:1203
+msgid "Show Preheader"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:740 marine/inc/theme-options.php:218
+msgid "Custom logo"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:741 marine/inc/theme-options.php:219
+msgid "Enter full URL of your logo image or choose upload button"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:751 marine/inc/theme-options.php:728
+msgid "Main menu style"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:752
+msgid "Overrides global style settings"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:761
+msgid "Select a slider for this post"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:769
+msgid "Titlebar"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:783
+msgid "Only title"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:788
+msgid "Title + Breadcrumbs"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:793
+msgid "No titlebar"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:800
+msgid "Titlebar style"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:830
+msgid "Page title icon (choose or upload below)"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:831 marine/inc/meta-boxes.php:840
+msgid "Works with Titlebar Style 3 only"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:839
+msgid "Page title icon upload"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:848 marine/inc/meta-boxes.php:1228
+#: marine/inc/theme-options.php:1267
+msgid "Page title color"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:849 marine/inc/meta-boxes.php:1229
+#: marine/inc/theme-options.php:1268
+msgid "Color of the page title"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:861
+msgid "Titlebar background color"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:870
+msgid "Titlebar background"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:871 marine/inc/meta-boxes.php:1251
+#: marine/inc/theme-options.php:453
+msgid "Background image URL"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:879
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:888
+msgid "Sidebar position"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:889
+msgid "Select a sidebar position"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:914
+msgid "Left sidebar"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:924
+msgid "Right sidebar"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:934 marine/inc/meta-boxes.php:954
+#: marine/inc/meta-boxes.php:1259
+msgid "Show Comment form"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:975 marine/inc/meta-boxes.php:1279
+#: marine/inc/theme-options.php:597
+msgid "Show Shop Footer"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1002 marine/inc/meta-boxes.php:1306
+#: marine/inc/theme-options.php:622
+msgid "Show recent tweets in the footer"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1003 marine/inc/meta-boxes.php:1307
+#: marine/inc/theme-options.php:623
+msgid ""
+"You need to set Twitter API keys in the Theme Options to make this option "
+"work. You can get the API keys here http://dev.twitter.com"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1029 marine/inc/theme-options.php:679
+msgid "Footer style"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1050 marine/inc/theme-options.php:696
+msgid "Alternative with contact form"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1057
+msgid "Contact Form - Header font style"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1069
+msgid "Contact Form - Header font size (px)"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1080
+msgid "Contact Form - Header color"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1091
+msgid "Contact Form - Header"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1102
+msgid "Contact Form - Name label"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1113
+msgid "Contact Form - Name icon"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1125
+msgid "Contact Form - Email label"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1136
+msgid "Contact Form - Email icon"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1148
+msgid "Contact Form - Message label"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1159
+msgid "Contact Form - Send label"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1170
+msgid "Contact Form - Submit button style"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1183
+msgid "Rounded"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1241
+msgid "titlebar background color"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1250
+msgid "titlebar background"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1339
+msgid "Team Options"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1354 marine/inc/theme-options.php:1659
+msgid "Facebook URL"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1355 marine/inc/meta-boxes.php:1362
+#: marine/inc/meta-boxes.php:1369 marine/inc/meta-boxes.php:1376
+#: marine/inc/meta-boxes.php:1383 marine/inc/meta-boxes.php:1390
+#: marine/inc/meta-boxes.php:1397 marine/inc/meta-boxes.php:1404
+msgid "Icon appers if not empty"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1361 marine/inc/theme-options.php:1671
+#: marine/inc/theme-options.php:1744
+msgid "Twitter URL"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1368 marine/inc/theme-options.php:1683
+msgid "Skype username"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1375
+msgid "Dribbble URL"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1382 marine/inc/theme-options.php:1695
+msgid "Google+ URL"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1389
+msgid "LinkedIn URL"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1396 marine/inc/theme-options.php:1707
+msgid "Vimeo URL"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1403 marine/inc/theme-options.php:1731
+msgid "Instagram URL"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1415
+msgid "Banner Options"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1423
+msgid "Banner height"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1424
+msgid "Banner height in pixels"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1431 marine/inc/shortcodes_vc.php:603
+#: marine/inc/shortcodes_vc.php:1745
+#: marine/inc/shortcodes/shortcodes_vc.php:515
+#: marine/inc/shortcodes/shortcodes_vc.php:1567
+msgid "Padding top"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1432
+msgid "Container top padding"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1439 marine/inc/shortcodes_vc.php:610
+#: marine/inc/shortcodes_vc.php:1752
+#: marine/inc/shortcodes/shortcodes_vc.php:522
+#: marine/inc/shortcodes/shortcodes_vc.php:1574
+msgid "Padding bottom"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1440
+msgid "Container bottom padding"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1447
+msgid "Padding left"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1448
+msgid "Container left padding"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1455
+msgid "Padding right"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1456
+msgid "Container right padding"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1463
+msgid "Padding unit"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1471
+msgid "px"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1476
+msgid "%"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1499 marine/inc/theme-options.php:315
+msgid "Background repeat"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1507 marine/inc/theme-options.php:327
+msgid "Repeat horizontally & vertically"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1512 marine/inc/theme-options.php:332
+msgid "Repeat horizontally"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1517 marine/inc/theme-options.php:337
+msgid "Repeat vertically"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1522 marine/inc/theme-options.php:342
+msgid "No repeat"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1592 marine/inc/shortcodes_vc.php:1635
+#: marine/inc/theme-options.php:390
+#: marine/inc/shortcodes/shortcodes_vc.php:1457
+msgid "Scroll"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1597 marine/inc/shortcodes_vc.php:1636
+#: marine/inc/theme-options.php:395
+#: marine/inc/shortcodes/shortcodes_vc.php:1458
+msgid "Fixed"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1604 marine/inc/theme-options.php:402
+msgid "Background size"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1612 marine/inc/theme-options.php:414
+#: marine/inc/theme-options.php:573
+msgid "Original"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1617
+msgid "Fits the container"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1632 marine/inc/shortcodes_vc.php:1678
+#: marine/inc/shortcodes/shortcodes_vc.php:1500
+msgid "Background video format"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1650
+msgid "OGG"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1661
+msgid "Testimonial Options"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1678
+msgid "Company"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1686
+msgid "Quote"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1700
+msgid "Product Options"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1731
+msgid "Menu Options"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1748 marine/woocommerce/content-product.php:64
+msgid "Details"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1772
+msgid "Choose"
+msgstr ""
+
+#: marine/inc/meta-boxes.php:1832 marine/framework/banner-builder.php:15
+#: marine/framework/banner-builder.php:16
+msgid "Banner Builder"
+msgstr ""
+
+#: marine/inc/top.php:9 marine/inc/template-tags.php:1028
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: marine/inc/top.php:23 marine/inc/template-tags.php:1029
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: marine/inc/top.php:31 marine/inc/template-tags.php:1030
+msgid "404 Page Not Found"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:22 marine/inc/shortcodes/shortcodes_vc.php:22
+msgid "Accordion (theme)"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:31 marine/inc/shortcodes/shortcodes_vc.php:31
+msgid "Default Open"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:34 marine/inc/shortcodes/shortcodes_vc.php:34
+msgid "Check if you want to set the default open state for this accordion."
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:48 marine/inc/shortcodes/shortcodes_vc.php:48
+msgid "Accordion Toggle"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:55 marine/inc/shortcodes/shortcodes_vc.php:55
+msgid "Accordion Title"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:57 marine/inc/shortcodes_vc.php:3138
+#: marine/inc/shortcodes/shortcodes_vc.php:57
+#: marine/inc/shortcodes/shortcodes_vc.php:2849
+msgid "Enter title for this toggle."
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:62 marine/inc/shortcodes/shortcodes_vc.php:62
+msgid "Toggle Content"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:111
+#: marine/inc/shortcodes/shortcodes_vc.php:111
+msgid "Close button"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:167
+#: marine/inc/shortcodes/shortcodes_vc.php:167
+msgid "Blog Timeline"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:177
+#: marine/inc/shortcodes/shortcodes_vc.php:177
+msgid "Posts per page"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/shortcodes_vc.php:321 marine/inc/shortcodes_vc.php:409
+#: marine/inc/shortcodes/shortcodes_vc.php:321
+msgid "Small"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:322 marine/inc/shortcodes_vc.php:410
+#: marine/inc/shortcodes/shortcodes_vc.php:322
+msgid "Large"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:540 marine/inc/shortcodes_vc.php:2092
+#: marine/inc/shortcodes/shortcodes_vc.php:452
+#: marine/inc/shortcodes/shortcodes_vc.php:1825
+msgid "Button background"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:617 marine/inc/shortcodes_vc.php:1759
+#: marine/inc/shortcodes/shortcodes_vc.php:529
+#: marine/inc/shortcodes/shortcodes_vc.php:1581
+msgid "Margin bottom"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:624 marine/inc/shortcodes_vc.php:1723
+#: marine/inc/shortcodes_vc.php:2327
+#: marine/inc/shortcodes/shortcodes_vc.php:536
+#: marine/inc/shortcodes/shortcodes_vc.php:1545
+#: marine/inc/shortcodes/shortcodes_vc.php:2049
+msgid "First element on page"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:635 marine/inc/shortcodes_vc.php:1734
+#: marine/inc/shortcodes_vc.php:2338
+#: marine/inc/shortcodes/shortcodes_vc.php:547
+#: marine/inc/shortcodes/shortcodes_vc.php:1556
+#: marine/inc/shortcodes/shortcodes_vc.php:2060
+msgid "Last element on page"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:656 marine/inc/shortcodes_vc.php:957
+#: marine/inc/shortcodes_vc.php:1605
+#: marine/inc/shortcodes/shortcodes_vc.php:568
+#: marine/inc/shortcodes/shortcodes_vc.php:849
+#: marine/inc/shortcodes/shortcodes_vc.php:1427
+msgid "Structure"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:663
+#: marine/inc/shortcodes/shortcodes_vc.php:575
+msgid "Columns"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:684
+#: marine/inc/shortcodes/shortcodes_vc.php:596
+msgid "Columns offset"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:759
+#: marine/inc/shortcodes/shortcodes_vc.php:671
+msgid "Send Button Label"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:766
+#: marine/inc/shortcodes/shortcodes_vc.php:678
+msgid "Clear Button Label"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:773 marine/inc/shortcodes_vc.php:1493
+#: marine/inc/shortcodes/shortcodes_vc.php:685
+#: marine/inc/shortcodes/shortcodes_vc.php:1315
+msgid "Skin"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:784
+#: marine/inc/shortcodes/shortcodes_vc.php:696
+msgid "Button alignment"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:860
+#: marine/inc/shortcodes/shortcodes_vc.php:752
+msgid "Icon background color"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:926
+#: marine/inc/shortcodes/shortcodes_vc.php:818
+msgid "Foreground color"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:954
+#: marine/inc/shortcodes/shortcodes_vc.php:846
+msgid "Divider"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:1149 marine/inc/shortcodes_vc.php:1240
+#: marine/inc/shortcodes_vc.php:1343
+#: marine/inc/shortcodes/shortcodes_vc.php:1041
+#: marine/inc/shortcodes/shortcodes_vc.php:1132
+msgid "Category filter border color"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:1391
+#: marine/inc/shortcodes/shortcodes_vc.php:1213
+#, php-format
+msgid ""
+"Title will be added to category name. Example of use: \"Our %s\" where %s "
+"will be replace with category name"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:1671
+#: marine/inc/shortcodes/shortcodes_vc.php:1493
+msgid "Background video URL"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:1766 marine/inc/shortcodes_vc.php:2291
+#: marine/inc/shortcodes/shortcodes_vc.php:1588
+#: marine/inc/shortcodes/shortcodes_vc.php:2024
+msgid "Fullwidth"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:1886
+#: marine/inc/shortcodes/shortcodes_vc.php:1619
+msgid "Icon List"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:1904
+#: marine/inc/shortcodes/shortcodes_vc.php:1637
+msgid "Icon List Item"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:1911
+#: marine/inc/shortcodes/shortcodes_vc.php:1644
+msgid "Icon Type"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:1913
+#: marine/inc/shortcodes/shortcodes_vc.php:1646
+msgid "Font Icon"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:1914
+#: marine/inc/shortcodes/shortcodes_vc.php:1647
+msgid "Select the icon type you want to use"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2057
+#: marine/inc/shortcodes/shortcodes_vc.php:1790
+msgid "Box title"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2064
+#: marine/inc/shortcodes/shortcodes_vc.php:1797
+msgid "Box subtitle"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2071
+#: marine/inc/shortcodes/shortcodes_vc.php:1804
+msgid "Box background color"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2208
+#: marine/inc/shortcodes/shortcodes_vc.php:1941
+msgid "Logos Item"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2284
+#: marine/inc/shortcodes/shortcodes_vc.php:2017
+msgid "Custom marker"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2323
+#: marine/inc/shortcodes/shortcodes_vc.php:2045
+msgid "Moves marker to the top (px)"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2362
+#: marine/inc/shortcodes/shortcodes_vc.php:2084
+msgid "Multi posts"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2435
+#: marine/inc/shortcodes/shortcodes_vc.php:2157
+msgid "Divider color"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2442
+#: marine/inc/shortcodes/shortcodes_vc.php:2164
+msgid "Social icons color"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2522
+#: marine/inc/shortcodes/shortcodes_vc.php:2244
+msgid "Person slide"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2531
+#: marine/inc/shortcodes/shortcodes_vc.php:2253
+msgid "Enter team member ID for this slide"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2558
+#: marine/inc/shortcodes/shortcodes_vc.php:2280
+msgid "Pricing Table"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2588
+#: marine/inc/shortcodes/shortcodes_vc.php:2310
+msgid "Pricing Table Column"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2659
+#: marine/inc/shortcodes/shortcodes_vc.php:2381
+msgid "Pricing Table Item"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2697
+#: marine/inc/shortcodes/shortcodes_vc.php:2419
+msgid "Project gallery"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2716
+#: marine/inc/shortcodes/shortcodes_vc.php:2438
+msgid "Image Item"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2804
+#: marine/inc/shortcodes/shortcodes_vc.php:2526
+msgid "Skillbar"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2846
+#: marine/inc/shortcodes/shortcodes_vc.php:2568
+msgid "Skillbar Item"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2880
+#: marine/inc/shortcodes/shortcodes_vc.php:2602
+msgid "Social Icons"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2899
+#: marine/inc/shortcodes/shortcodes_vc.php:2621
+msgid "Social Icon"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:2992
+#: marine/inc/shortcodes/shortcodes_vc.php:2714
+msgid "Special Text"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:3105
+#: marine/inc/shortcodes/shortcodes_vc.php:2816
+msgid "Tabs (theme)"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:3114
+#: marine/inc/shortcodes/shortcodes_vc.php:2825
+msgid "Tabs Orientation"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:3120
+#: marine/inc/shortcodes/shortcodes_vc.php:2831
+msgid "Select the default orientation for this tabs group"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:3136
+#: marine/inc/shortcodes/shortcodes_vc.php:2847
+msgid "Tab Title"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:3150
+#: marine/inc/shortcodes/shortcodes_vc.php:2861
+msgid "Tab Content"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:3152
+#: marine/inc/shortcodes/shortcodes_vc.php:2863
+msgid ""
+"<p>I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.</p>"
+msgstr ""
+
+#: marine/inc/shortcodes_vc.php:3338
+#: marine/inc/shortcodes/shortcodes_vc.php:3038
+msgid "Video Player"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/template-tags.php:1025
+msgid "Home"
+msgstr ""
+
+#: marine/inc/template-tags.php:1026
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: marine/inc/template-tags.php:1027
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: marine/inc/template-tags.php:1333 marine/inc/theme-options.php:2342
+msgid "Login"
+msgstr ""
+
+#: marine/inc/template-tags.php:1339
+msgid "ITEMS(S)"
+msgstr ""
+
+#: marine/inc/template-tags.php:1343
+msgid "Cart is empty"
+msgstr ""
+
+#: marine/inc/template-tags.php:1347
+#, php-format
+msgid "%d item <span>in cart</span>"
+msgid_plural "%d items <span>in cart</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: marine/inc/template-tags.php:1388
+msgid "View Cart"
+msgstr ""
+
+#: marine/inc/template-tags.php:1389 marine/woocommerce/cart/cart.php:150
+msgid "Checkout"
+msgstr ""
+
+#: marine/inc/template-tags.php:1397
+msgid "Language"
+msgstr ""
+
+#: marine/inc/template-tags.php:1496
+msgid "RECENTLY VIEWED"
+msgstr ""
+
+#: marine/inc/template-tags.php:1497
+msgid "Clear All"
+msgstr ""
+
+#: marine/inc/template-tags.php:1511
+msgid "Save for later"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/Comment_Walker.class.php:57
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/theme-options.php:68
+msgid "General Settings"
+msgstr ""
+
+#: marine/inc/theme-options.php:72
+msgid "Fonts"
+msgstr ""
+
+#: marine/inc/theme-options.php:76
+msgid "Elements Color"
+msgstr ""
+
+#: marine/inc/theme-options.php:80
+msgid "Pages"
+msgstr ""
+
+#: marine/inc/theme-options.php:84
+msgid "Sidebars"
+msgstr ""
+
+#: marine/inc/theme-options.php:88
+msgid "Integration"
+msgstr ""
+
+#: marine/inc/theme-options.php:92
+msgid "Contacts & Social"
+msgstr ""
+
+#: marine/inc/theme-options.php:100
+msgid "Translations"
+msgstr ""
+
+#: marine/inc/theme-options.php:107
+msgid "Import demo content"
+msgstr ""
+
+#: marine/inc/theme-options.php:108
+msgid ""
+" WARNING: clicking this button will install new posts and replace your "
+"current data including theme options, sliders and widgets."
+msgstr ""
+
+#: marine/inc/theme-options.php:108
+msgid "Import sample data"
+msgstr ""
+
+#: marine/inc/theme-options.php:159
+msgid "Preloader"
+msgstr ""
+
+#: marine/inc/theme-options.php:171 marine/inc/theme-options.php:906
+#: marine/inc/theme-options.php:925 marine/inc/theme-options.php:949
+msgid "Disabled"
+msgstr ""
+
+#: marine/inc/theme-options.php:230
+msgid "Logo top margin"
+msgstr ""
+
+#: marine/inc/theme-options.php:231
+msgid "Enter number to set the top space of the logo"
+msgstr ""
+
+#: marine/inc/theme-options.php:242
+msgid "Logo left margin"
+msgstr ""
+
+#: marine/inc/theme-options.php:243
+msgid "Enter number to set the left space of the logo"
+msgstr ""
+
+#: marine/inc/theme-options.php:254
+msgid "Logo bottom margin"
+msgstr ""
+
+#: marine/inc/theme-options.php:255
+msgid "Enter number to set the bottom space of the logo"
+msgstr ""
+
+#: marine/inc/theme-options.php:266
+msgid "Favicon"
+msgstr ""
+
+#: marine/inc/theme-options.php:267
+msgid "Enter Full URL of your favicon image or choose upload button"
+msgstr ""
+
+#: marine/inc/theme-options.php:279 marine/inc/theme-options.php:291
+msgid "Enabled only when boxed layout is selected"
+msgstr ""
+
+#: marine/inc/theme-options.php:304
+msgid ""
+"Choose \"Image\" option on \"Background pattern\" list and boxed layout to "
+"enable background"
+msgstr ""
+
+#: marine/inc/theme-options.php:419
+msgid "Fits to browser size"
+msgstr ""
+
+#: marine/inc/theme-options.php:426
+msgid "Default titlebar style"
+msgstr ""
+
+#: marine/inc/theme-options.php:452
+msgid "Default title background"
+msgstr ""
+
+#: marine/inc/theme-options.php:464
+msgid "Default shop titlebar style"
+msgstr ""
+
+#: marine/inc/theme-options.php:465
+msgid "Titlebar style for WooCommerce pages"
+msgstr ""
+
+#: marine/inc/theme-options.php:490
+msgid "Default shop title background"
+msgstr ""
+
+#: marine/inc/theme-options.php:491
+msgid "Background image URL for WooCommerce shop pages"
+msgstr ""
+
+#: marine/inc/theme-options.php:502
+msgid "Title background position"
+msgstr ""
+
+#: marine/inc/theme-options.php:561
+msgid "Title background size"
+msgstr ""
+
+#: marine/inc/theme-options.php:578
+msgid "Scale to the container size"
+msgstr ""
+
+#: marine/inc/theme-options.php:585
+msgid "Header text"
+msgstr ""
+
+#: marine/inc/theme-options.php:586
+msgid "Text displays in the heade, html allowed."
+msgstr ""
+
+#: marine/inc/theme-options.php:645
+msgid "Don't cache tweets"
+msgstr ""
+
+#: marine/inc/theme-options.php:646
+msgid ""
+"When enabled tweets are not cached. Disable this feature on production "
+"server!"
+msgstr ""
+
+#: marine/inc/theme-options.php:667
+msgid "Footer text"
+msgstr ""
+
+#: marine/inc/theme-options.php:668
+msgid "You can add copyright text here."
+msgstr ""
+
+#: marine/inc/theme-options.php:703
+msgid "Sticky footer"
+msgstr ""
+
+#: marine/inc/theme-options.php:729
+msgid "Default menu style"
+msgstr ""
+
+#: marine/inc/theme-options.php:741
+msgid "Shop menu style"
+msgstr ""
+
+#: marine/inc/theme-options.php:742
+msgid "Default menu style for all shop pages"
+msgstr ""
+
+#: marine/inc/theme-options.php:754
+msgid "Show preheader"
+msgstr ""
+
+#: marine/inc/theme-options.php:755
+msgid "Show or hide preheader"
+msgstr ""
+
+#: marine/inc/theme-options.php:778
+msgid "Preheader items"
+msgstr ""
+
+#: marine/inc/theme-options.php:780
+msgid ""
+"List of user defined preheader items. Please use \"save changes\" button "
+"after you add or edit items."
+msgstr ""
+
+#: marine/inc/theme-options.php:784
+msgid "Item float"
+msgstr ""
+
+#: marine/inc/theme-options.php:821
+msgid "Text (content for the text type)"
+msgstr ""
+
+#: marine/inc/theme-options.php:841
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: marine/inc/theme-options.php:842
+msgid "Show or hide breadcrumbs"
+msgstr ""
+
+#: marine/inc/theme-options.php:865
+msgid "Show search icon in navigation"
+msgstr ""
+
+#: marine/inc/theme-options.php:866
+msgid "Show or hide search form right to the main navigation"
+msgstr ""
+
+#: marine/inc/theme-options.php:889
+msgid "Enable responsiveness"
+msgstr ""
+
+#: marine/inc/theme-options.php:901 marine/inc/theme-options.php:930
+msgid "Enabled"
+msgstr ""
+
+#: marine/inc/theme-options.php:913
+msgid "Retina support"
+msgstr ""
+
+#: marine/inc/theme-options.php:914
+msgid ""
+"If enabled all images should be uploaded 2x larger. Requires more server "
+"resources if enabled."
+msgstr ""
+
+#: marine/inc/theme-options.php:937
+msgid "Show control panel"
+msgstr ""
+
+#: marine/inc/theme-options.php:938
+msgid "Shows the Control Panel on your homepage if enabled."
+msgstr ""
+
+#: marine/inc/theme-options.php:954
+msgid "Enabled for administrator"
+msgstr ""
+
+#: marine/inc/theme-options.php:959
+msgid "Enabled for all"
+msgstr ""
+
+#: marine/inc/theme-options.php:966
+msgid "Switch menu to mobile on width (px)"
+msgstr ""
+
+#: marine/inc/theme-options.php:979
+msgid "Mega Menu background"
+msgstr ""
+
+#: marine/inc/theme-options.php:993
+msgid "Additional character sets"
+msgstr ""
+
+#: marine/inc/theme-options.php:994
+msgid "Choose the character sets you want to download from Google Fonts"
+msgstr ""
+
+#: marine/inc/theme-options.php:1005
+msgid "Cyrillic"
+msgstr ""
+
+#: marine/inc/theme-options.php:1010
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: marine/inc/theme-options.php:1015
+msgid "Greek Extended"
+msgstr ""
+
+#: marine/inc/theme-options.php:1020
+msgid "Latin Extended"
+msgstr ""
+
+#: marine/inc/theme-options.php:1025
+msgid "Vietnamese"
+msgstr ""
+
+#: marine/inc/theme-options.php:1033
+msgid "Font style for page title"
+msgstr ""
+
+#: marine/inc/theme-options.php:1045
+msgid "Title font size"
+msgstr ""
+
+#: marine/inc/theme-options.php:1046
+msgid "The size of the page title in pixels"
+msgstr ""
+
+#: marine/inc/theme-options.php:1058
+msgid "Content font"
+msgstr ""
+
+#: marine/inc/theme-options.php:1059
+msgid "Font style for content"
+msgstr ""
+
+#: marine/inc/theme-options.php:1071
+msgid "Content font size"
+msgstr ""
+
+#: marine/inc/theme-options.php:1072
+msgid "The size of the page content in pixels"
+msgstr ""
+
+#: marine/inc/theme-options.php:1084
+msgid "Menu font"
+msgstr ""
+
+#: marine/inc/theme-options.php:1085
+msgid "Font style for menu items"
+msgstr ""
+
+#: marine/inc/theme-options.php:1097
+msgid "Menu font size"
+msgstr ""
+
+#: marine/inc/theme-options.php:1098
+msgid "The size of the menu elements in pixels"
+msgstr ""
+
+#: marine/inc/theme-options.php:1110
+msgid "Header font"
+msgstr ""
+
+#: marine/inc/theme-options.php:1111
+msgid "Font style for all headers (H1, H2 etc.)"
+msgstr ""
+
+#: marine/inc/theme-options.php:1123
+msgid "H1 font size"
+msgstr ""
+
+#: marine/inc/theme-options.php:1124
+msgid "The size of H1 elements in pixels"
+msgstr ""
+
+#: marine/inc/theme-options.php:1136
+msgid "H2 font size"
+msgstr ""
+
+#: marine/inc/theme-options.php:1137
+msgid "The size of H2 elements in pixels"
+msgstr ""
+
+#: marine/inc/theme-options.php:1149
+msgid "H3 font size"
+msgstr ""
+
+#: marine/inc/theme-options.php:1150
+msgid "The size of H3 elements in pixels"
+msgstr ""
+
+#: marine/inc/theme-options.php:1162
+msgid "H4 font size"
+msgstr ""
+
+#: marine/inc/theme-options.php:1163
+msgid "The size of H4 elements in pixels"
+msgstr ""
+
+#: marine/inc/theme-options.php:1175
+msgid "H5 font size"
+msgstr ""
+
+#: marine/inc/theme-options.php:1176
+msgid "The size of H5 elements in pixels"
+msgstr ""
+
+#: marine/inc/theme-options.php:1188
+msgid "H6 font size"
+msgstr ""
+
+#: marine/inc/theme-options.php:1189
+msgid "The size of H6 elements in pixels"
+msgstr ""
+
+#: marine/inc/theme-options.php:1202
+msgid "Main color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1203
+msgid "Main theme color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1215
+msgid "Main body background color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1228
+msgid "Main body text color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1229
+msgid "Main body text color, used for post content."
+msgstr ""
+
+#: marine/inc/theme-options.php:1241
+msgid "Headers text color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1242
+msgid "Color of all headers"
+msgstr ""
+
+#: marine/inc/theme-options.php:1254
+msgid "Header background color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1280
+msgid "Page title background color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1281
+msgid "Background color of the page title"
+msgstr ""
+
+#: marine/inc/theme-options.php:1293
+msgid "Menu background color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1294
+msgid "Background color of the menu (works with selected header styles only)"
+msgstr ""
+
+#: marine/inc/theme-options.php:1306
+msgid "Sub menu background color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1307
+msgid "Background color of the sub menu item"
+msgstr ""
+
+#: marine/inc/theme-options.php:1319
+msgid "Preheader background color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1332
+msgid "Preheader text color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1345
+msgid "Footer background color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1358
+msgid "Footer headers color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1371
+msgid "Footer main text color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1384
+msgid "Copyrights bar background color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1397
+msgid "Copyrights bar text color"
+msgstr ""
+
+#: marine/inc/theme-options.php:1411
+msgid "Related posts"
+msgstr ""
+
+#: marine/inc/theme-options.php:1412
+msgid "Show related posts on a single blog post"
+msgstr ""
+
+#: marine/inc/theme-options.php:1435
+msgid "Blog style"
+msgstr ""
+
+#: marine/inc/theme-options.php:1452
+msgid "Alternate"
+msgstr ""
+
+#: marine/inc/theme-options.php:1462
+msgid "Timeline"
+msgstr ""
+
+#: marine/inc/theme-options.php:1474
+msgid "Portfolio page"
+msgstr ""
+
+#: marine/inc/theme-options.php:1534
+msgid "Portfolio page - related projects header"
+msgstr ""
+
+#: marine/inc/theme-options.php:1546
+msgid "404 content"
+msgstr ""
+
+#: marine/inc/theme-options.php:1559
+msgid "Google Analytics ID"
+msgstr ""
+
+#: marine/inc/theme-options.php:1560
+msgid "Your Google Analytics ID eg. UA-1xxxxx8-1"
+msgstr ""
+
+#: marine/inc/theme-options.php:1571
+msgid "Header scripts"
+msgstr ""
+
+#: marine/inc/theme-options.php:1572
+msgid ""
+"Scripts will be added to the header. Don't forget to add &lsaquo;"
+"script&rsaquo;;...&lsaquo;/script&rsaquo; tags."
+msgstr ""
+
+#: marine/inc/theme-options.php:1583
+msgid "Footer scripts"
+msgstr ""
+
+#: marine/inc/theme-options.php:1584
+msgid ""
+"Scripts will be added to the footer. You can use this for Google Analytics "
+"etc. Don't forget to add &lsaquo;script&rsaquo;...&lsaquo;/script&rsaquo; "
+"tags."
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/theme-options.php:1595
+msgid "Custom CSS"
+msgstr ""
+
+#: marine/inc/theme-options.php:1596
+msgid "Please add css classes only"
+msgstr ""
+
+#: marine/inc/theme-options.php:1607
+msgid "Actived items"
+msgstr ""
+
+#: marine/inc/theme-options.php:1608
+msgid "Items available on your website"
+msgstr ""
+
+#: marine/inc/theme-options.php:1619
+msgid "Twitter"
+msgstr ""
+
+#: marine/inc/theme-options.php:1624
+msgid "Facebook"
+msgstr ""
+
+#: marine/inc/theme-options.php:1629
+msgid "Skype"
+msgstr ""
+
+#: marine/inc/theme-options.php:1635
+msgid "Google+"
+msgstr ""
+
+#: marine/inc/theme-options.php:1641
+msgid "vimeo"
+msgstr ""
+
+#: marine/inc/theme-options.php:1646
+msgid "LinkedIn"
+msgstr ""
+
+#: marine/inc/theme-options.php:1651
+msgid "instagram"
+msgstr ""
+
+#: marine/inc/theme-options.php:1660
+msgid "URL to your Facebook account"
+msgstr ""
+
+#: marine/inc/theme-options.php:1672
+msgid "URL to your Twitter account"
+msgstr ""
+
+#: marine/inc/theme-options.php:1684
+msgid "Your Skype username"
+msgstr ""
+
+#: marine/inc/theme-options.php:1696
+msgid "URL to your Google+ account"
+msgstr ""
+
+#: marine/inc/theme-options.php:1708
+msgid "URL to your Vimeo account"
+msgstr ""
+
+#: marine/inc/theme-options.php:1719
+msgid "Linkedin URL"
+msgstr ""
+
+#: marine/inc/theme-options.php:1720
+msgid "URL to your Linkedin account"
+msgstr ""
+
+#: marine/inc/theme-options.php:1732
+msgid "URL to your Instagram account"
+msgstr ""
+
+#: marine/inc/theme-options.php:1745
+msgid "Your Twitter URL to use where tweets are diplayed"
+msgstr ""
+
+#: marine/inc/theme-options.php:1756
+msgid "Twitter consumer key"
+msgstr ""
+
+#: marine/inc/theme-options.php:1757
+msgid "Consumer key from your application's OAuth settings."
+msgstr ""
+
+#: marine/inc/theme-options.php:1768
+msgid "Twitter consumer secret"
+msgstr ""
+
+#: marine/inc/theme-options.php:1769
+msgid "Consumer secret from your application's OAuth settings."
+msgstr ""
+
+#: marine/inc/theme-options.php:1780
+msgid "Twitter user token"
+msgstr ""
+
+#: marine/inc/theme-options.php:1781
+msgid "'User token from your application's OAuth settings."
+msgstr ""
+
+#: marine/inc/theme-options.php:1792
+msgid "Twitter access token secret"
+msgstr ""
+
+#: marine/inc/theme-options.php:1793
+msgid "'Access token secret from your application's OAuth settings."
+msgstr ""
+
+#: marine/inc/theme-options.php:1805
+msgid "Email to receive messages from contact forms"
+msgstr ""
+
+#: marine/inc/theme-options.php:1816
+msgid "Notification subject"
+msgstr ""
+
+#: marine/inc/theme-options.php:1829
+msgid ""
+"List of user defined sidebars. Please use \"save changes\" button after "
+"adding or editing sidebars."
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/theme-options.php:1832 marine/woocommerce/cart/cart.php:25
+#: marine/framework/custom-menus.php:250
+msgid "Description"
+msgstr ""
+
+#: marine/inc/theme-options.php:1852
+msgid "Enable translations"
+msgstr ""
+
+#: marine/inc/theme-options.php:2238
+msgid "Image (choose below)"
+msgstr ""
+
+#: marine/inc/theme-options.php:2245
+msgid "Cartographer"
+msgstr ""
+
+#: marine/inc/theme-options.php:2250
+msgid "Concrete Wall"
+msgstr ""
+
+#: marine/inc/theme-options.php:2255
+msgid "Dark Wall"
+msgstr ""
+
+#: marine/inc/theme-options.php:2260
+msgid "Dark Wood"
+msgstr ""
+
+#: marine/inc/theme-options.php:2265
+msgid "Irongrip"
+msgstr ""
+
+#: marine/inc/theme-options.php:2270
+msgid "Purty Wood"
+msgstr ""
+
+#: marine/inc/theme-options.php:2275
+msgid "PX"
+msgstr ""
+
+#: marine/inc/theme-options.php:2327
+msgid "Date"
+msgstr ""
+
+#: marine/inc/theme-options.php:2332
+msgid "Language (WPML)"
+msgstr ""
+
+#: marine/inc/theme-options.php:2337
+msgid "Cart (WooCommerce)"
+msgstr ""
+
+#: marine/inc/theme-options.php:2352
+msgid "Search icon"
+msgstr ""
+
+#: marine/inc/tweaks.php:64 marine/inc/tweaks.php:173
+msgid "&laquo; Previous"
+msgstr ""
+
+#: marine/inc/tweaks.php:65 marine/inc/tweaks.php:174
+msgid "Next &raquo;"
+msgstr ""
+
+#: marine/inc/post-author.php:16
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: marine/inc/widgets/WP_Recent_Works_Widget.class.php:18
+#: marine/inc/widgets/WP_Recent_Works_Slider_Widget.class.php:18
+msgid "Displays the most recent portfolio items."
+msgstr ""
+
+#: marine/inc/widgets/WP_Recent_Works_Widget.class.php:19
+msgid "Recent Works"
+msgstr ""
+
+#: marine/inc/widgets/WP_Recent_Works_Widget.class.php:115
+#: marine/inc/widgets/WP_Side_Navi_Widget.class.php:83
+#: marine/inc/widgets/WP_Latest_Posts_Widget.class.php:110
+#: marine/inc/widgets/WP_Social_Media_Widget.class.php:86
+#: marine/inc/widgets/WP_Recent_Comments_Widget.class.php:102
+#: marine/inc/widgets/WP_Call_To_Action_Widget.class.php:87
+#: marine/inc/widgets/WP_Recent_Works_Slider_Widget.class.php:125
+#: marine/inc/widgets/WP_Testimonials_Widget.class.php:109
+#: marine/inc/widgets/WP_Advanced_Custom_Menu_Widget.class.php:60
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:123
+msgid "Title:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Recent_Works_Widget.class.php:118
+#: marine/inc/widgets/WP_Latest_Posts_Widget.class.php:113
+#: marine/inc/widgets/WP_Recent_Works_Slider_Widget.class.php:128
+msgid "Number of posts to show:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Side_Navi_Widget.class.php:18
+msgid "Shows choosen WordPress pages"
+msgstr ""
+
+#: marine/inc/widgets/WP_Side_Navi_Widget.class.php:19
+#: marine/inc/widgets/WP_Side_Navi_Widget.class.php:25
+msgid "Side Navi"
+msgstr ""
+
+#: marine/inc/widgets/WP_Side_Navi_Widget.class.php:85
+msgid "Sort by:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Side_Navi_Widget.class.php:87
+msgid "Page title"
+msgstr ""
+
+#: marine/inc/widgets/WP_Side_Navi_Widget.class.php:88
+msgid "Page order"
+msgstr ""
+
+#: marine/inc/widgets/WP_Side_Navi_Widget.class.php:89
+msgid "Page ID"
+msgstr ""
+
+#: marine/inc/widgets/WP_Side_Navi_Widget.class.php:93
+msgid "Include:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Side_Navi_Widget.class.php:95
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: marine/inc/widgets/WP_Latest_Posts_Widget.class.php:18
+msgid "Displays the most latest posts."
+msgstr ""
+
+#: marine/inc/widgets/WP_Latest_Posts_Widget.class.php:19
+#: marine/inc/widgets/WP_Latest_Posts_Widget.class.php:52
+msgid "Latest Posts"
+msgstr ""
+
+#: marine/inc/widgets/WP_Social_Media_Widget.class.php:21
+#: marine/inc/widgets/WP_Social_Media_Widget.class.php:22
+msgid "Social Media Icons"
+msgstr ""
+
+#: marine/inc/widgets/WP_Social_Media_Widget.class.php:90
+msgid "Facebook:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Social_Media_Widget.class.php:95
+msgid "Twitter:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Social_Media_Widget.class.php:99
+msgid "Skype:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Social_Media_Widget.class.php:103
+msgid "Google+:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Social_Media_Widget.class.php:107
+msgid "Vimeo:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Social_Media_Widget.class.php:111
+msgid "Linkdin:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Social_Media_Widget.class.php:115
+msgid "Instagram:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Recent_Comments_Widget.class.php:17
+msgid "Your site&#8217;s most recent comments."
+msgstr ""
+
+#: marine/inc/widgets/WP_Recent_Comments_Widget.class.php:18
+msgid "Alternative Recent Comments"
+msgstr ""
+
+#: marine/inc/widgets/WP_Recent_Comments_Widget.class.php:49
+msgid "Recent Comments"
+msgstr ""
+
+#: marine/inc/widgets/WP_Recent_Comments_Widget.class.php:72
+msgid "on"
+msgstr ""
+
+#: marine/inc/widgets/WP_Recent_Comments_Widget.class.php:105
+msgid "Number of comments to show:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Call_To_Action_Widget.class.php:17
+msgid "Title with button widget"
+msgstr ""
+
+#: marine/inc/widgets/WP_Call_To_Action_Widget.class.php:90
+msgid "Line 1:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Call_To_Action_Widget.class.php:93
+msgid "Line 2:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Call_To_Action_Widget.class.php:96
+msgid "Button text:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Call_To_Action_Widget.class.php:99
+#: marine/inc/widgets/WP_Call_To_Action_Widget.class.php:102
+msgid "URL:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Multi_Posts_Widget.class.php:18
+msgid "Displays tabs with most popular posts, recent posts and comments"
+msgstr ""
+
+#: marine/inc/widgets/WP_Multi_Posts_Widget.class.php:58
+#: marine/inc/shortcodes/multi_posts.php:26
+msgid "Popular"
+msgstr ""
+
+#: marine/inc/widgets/WP_Multi_Posts_Widget.class.php:59
+#: marine/inc/shortcodes/multi_posts.php:27
+msgid "Recent"
+msgstr ""
+
+#: marine/inc/widgets/WP_Multi_Posts_Widget.class.php:79
+#: marine/inc/widgets/WP_Multi_Posts_Widget.class.php:107
+#: marine/inc/widgets/WP_Multi_Posts_Widget.class.php:136
+#: marine/inc/shortcodes/multi_posts.php:46
+#: marine/inc/shortcodes/multi_posts.php:73
+#: marine/inc/shortcodes/multi_posts.php:102
+msgid "BY"
+msgstr ""
+
+#: marine/inc/widgets/WP_Multi_Posts_Widget.class.php:177
+#: marine/inc/widgets/WP_Twitter_Counter.class.php:78
+msgid "No options here"
+msgstr ""
+
+#: marine/inc/widgets/WP_Recent_Works_Slider_Widget.class.php:19
+msgid "Recent Works Slider"
+msgstr ""
+
+#: marine/inc/widgets/WP_Recent_Works_Slider_Widget.class.php:52
+msgid "Popular Posts"
+msgstr ""
+
+#: marine/inc/widgets/WP_Testimonials_Widget.class.php:17
+msgid "Displays testimonial by ID"
+msgstr ""
+
+#: marine/inc/widgets/WP_Testimonials_Widget.class.php:112
+msgid "Testimonial ID:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Advanced_Custom_Menu_Widget.class.php:17
+msgid "Add an advanced custom menu to your sidebar."
+msgstr ""
+
+#: marine/inc/widgets/WP_Advanced_Custom_Menu_Widget.class.php:18
+msgid "Advanced Custom Menu"
+msgstr ""
+
+#: marine/inc/widgets/WP_Advanced_Custom_Menu_Widget.class.php:55
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: marine/inc/widgets/WP_Advanced_Custom_Menu_Widget.class.php:64
+msgid "Select Menu:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:18
+msgid "Displays contact info."
+msgstr ""
+
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:19
+msgid "Contact Info"
+msgstr ""
+
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:62
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:126
+msgid "Address:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:67
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:129
+msgid "Phone:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:72
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:132
+msgid "Fax:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:77
+msgid "E-mail:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:135
+msgid "Email:"
+msgstr ""
+
+#: marine/inc/widgets/WP_Contact_Info_Widget.class.php:138
+msgid "Show social links"
+msgstr ""
+
+#: marine/inc/widgets/WP_Twitter_Counter.class.php:21
+#: marine/inc/widgets/WP_Twitter_Counter.class.php:22
+msgid "Twitter + RSS"
+msgstr ""
+
+#: marine/inc/widgets/WP_Twitter_Counter.class.php:50
+msgid "Followers"
+msgstr ""
+
+# @ mk_framework
+#: marine/inc/widgets/WP_Twitter_Counter.class.php:56
+msgid "Subscribe"
+msgstr ""
+
+#: marine/inc/widgets/WP_Twitter_Counter.class.php:56
+msgid "to RSS Feed"
+msgstr ""
+
+#: marine/inc/timeline-content/content-quote.php:55
+#: marine/inc/timeline-content/content-audio.php:60
+#: marine/inc/timeline-content/content-video.php:67
+#: marine/inc/timeline-content/content.php:65
+#: marine/inc/shortcodes/recent_posts.php:78
+#: marine/inc/post-content/content-quote.php:48
+#: marine/inc/post-content/content-audio.php:57
+#: marine/inc/post-content/content-audio.php:59
+#: marine/inc/post-content/content-gallery.php:68
+#: marine/inc/post-content/content-video.php:63
+#: marine/inc/post-content/content.php:54
+msgid "Read more"
+msgstr ""
+
+#: marine/inc/shortcodes/form.php:24
+msgid "Send message"
+msgstr ""
+
+#: marine/inc/portfolio-single/single-basic.php:81
+msgid "Related Projects"
+msgstr ""
+
+#: marine/inc/blog-types/alternate.php:157
+#: marine/inc/blog-types/alternate.php:289 marine/inc/blog-types/list.php:110
+msgid "Learn more"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:21
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: marine/woocommerce/single-product-reviews.php:45
+msgid "There are no reviews yet."
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/single-product-reviews.php:58
+msgid "Add a review"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/single-product-reviews.php:58
+msgid "Be the first to review"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:59
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:68
+msgid "Submit"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:74
+msgid "Your Rating"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:75
+msgid "Rate&hellip;"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:76
+msgid "Perfect"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:77
+msgid "Good"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:78
+msgid "Average"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:79
+msgid "Not that bad"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:80
+msgid "Very Poor"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:84
+msgid "Your Review"
+msgstr ""
+
+#: marine/woocommerce/single-product-reviews.php:93
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/single-product/sale-flash.php:16
+#: marine/woocommerce/loop/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: marine/woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/single-product/meta.php:27
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ woocommerce
+#: marine/woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: marine/woocommerce/single-product/product-thumbnails.php:48
+#: marine/woocommerce/single-product/product-image.php:50
+msgid "Video"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/single-product/up-sells.php:40
+msgid "You may also like&hellip;"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: marine/woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: marine/woocommerce/single-product/add-to-cart/variable.php:72
+msgid "Clear selection"
+msgstr ""
+
+#: marine/woocommerce/single-product/add-to-cart/variable.php:102
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: marine/woocommerce/cart/cart-empty.php:17
+msgid "UNFORTUNATELY, YOUR SHOPPING BAG IS EMPTY"
+msgstr ""
+
+#: marine/woocommerce/cart/cart-empty.php:19
+msgid "Back to store"
+msgstr ""
+
+#: marine/woocommerce/cart/cart.php:26
+msgid "Product Code"
+msgstr ""
+
+#: marine/woocommerce/cart/cart.php:27
+msgid "Unit Price"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/cart/cart.php:29
+#: marine/woocommerce/cart/cart-totals.php:20
+msgid "Subtotal"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/cart/cart.php:66
+msgid "Available on backorder"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/cart/cart.php:106
+msgid "Remove this item"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/cart/cart.php:122
+msgid "Coupon"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/cart/cart.php:122
+msgid "Coupon code"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/cart/cart.php:123
+msgid "Apply Coupon"
+msgstr ""
+
+#: marine/woocommerce/cart/cart.php:130
+msgid "Update Cart"
+msgstr ""
+
+#: marine/woocommerce/cart/cart.php:148
+msgid "Continue Shopping"
+msgstr ""
+
+#: marine/woocommerce/cart/cart-totals.php:17
+msgid "Cart Subtotal"
+msgstr ""
+
+#: marine/woocommerce/cart/cart-totals.php:72
+msgid "Order Total"
+msgstr ""
+
+#: marine/woocommerce/cart/cart-totals.php:84
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: marine/woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: marine/woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: marine/woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: marine/woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: marine/woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: marine/woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: marine/woocommerce/cart/cart-shipping.php:72
+#: marine/woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+
+#: marine/woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr ""
+
+#: marine/woocommerce/cart/shipping-calculator.php:23
+msgid "Estimate Shipping"
+msgstr ""
+
+#: marine/woocommerce/cart/shipping-calculator.php:29
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: marine/woocommerce/cart/shipping-calculator.php:46
+#: marine/woocommerce/cart/shipping-calculator.php:52
+#: marine/woocommerce/cart/shipping-calculator.php:64
+msgid "State / county"
+msgstr ""
+
+#: marine/woocommerce/cart/shipping-calculator.php:53
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: marine/woocommerce/cart/shipping-calculator.php:73
+msgid "City"
+msgstr ""
+
+#: marine/woocommerce/cart/shipping-calculator.php:81
+msgid "Postcode / Zip"
+msgstr ""
+
+#: marine/woocommerce/cart/shipping-calculator.php:86
+msgid "Update Totals"
+msgstr ""
+
+# @ woocommerce
+#: marine/woocommerce/loop/result-count.php:28
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: marine/woocommerce/loop/result-count.php:30
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Items %1$d to %2$d of %3$d total"
+msgstr ""
+
+#: marine/woocommerce/loop/orderby.php:22
+msgid "Sort by"
+msgstr ""
+
+#: marine/woocommerce/loop/orderby.php:26
+msgid "Default sorting"
+msgstr ""
+
+#: marine/woocommerce/loop/orderby.php:27
+msgid "Sort by popularity"
+msgstr ""
+
+#: marine/woocommerce/loop/orderby.php:28
+msgid "Sort by average rating"
+msgstr ""
+
+#: marine/woocommerce/loop/orderby.php:29
+msgid "Sort by newness"
+msgstr ""
+
+#: marine/woocommerce/loop/orderby.php:30
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: marine/woocommerce/loop/orderby.php:31
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: marine/woocommerce/loop/orderby.php:59 marine/framework/framework.php:953
+msgid "Previous"
+msgstr ""
+
+#: marine/woocommerce/loop/orderby.php:68
+#, php-format
+msgid "View Page %d of %d"
+msgstr ""
+
+#: marine/woocommerce/loop/orderby.php:71 marine/framework/framework.php:965
+msgid "Next"
+msgstr ""
+
+#: marine/woocommerce/global/breadcrumb.php:66
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: marine/woocommerce/global/breadcrumb.php:94
+#: marine/woocommerce/global/breadcrumb.php:192
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: marine/woocommerce/global/breadcrumb.php:128
+#, php-format
+msgid "Back to %s"
+msgstr ""
+
+#: marine/woocommerce/global/breadcrumb.php:150
+msgid "Error 404"
+msgstr ""
+
+#: marine/woocommerce/global/breadcrumb.php:196
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: marine/woocommerce/global/breadcrumb.php:201
+msgid "Author:"
+msgstr ""
+
+#: marine/woocommerce/global/breadcrumb.php:206
+msgid "Page"
+msgstr ""
+
+#: marine/framework/popup-content.php:164
+#: marine/framework/popup-content-old.php:165
+msgid "remove"
+msgstr ""
+
+#: marine/framework/framework.php:614
+msgid "just now"
+msgstr ""
+
+#: marine/framework/framework.php:618
+#, php-format
+msgid "%d seconds ago"
+msgstr ""
+
+#: marine/framework/framework.php:622
+msgid "1 minute ago"
+msgstr ""
+
+#: marine/framework/framework.php:626
+#, php-format
+msgid "%d minutes ago"
+msgstr ""
+
+#: marine/framework/framework.php:630
+msgid "1 hour ago"
+msgstr ""
+
+#: marine/framework/framework.php:634
+#, php-format
+msgid "%d hours ago"
+msgstr ""
+
+#: marine/framework/framework.php:638
+msgid "yesterday"
+msgstr ""
+
+#: marine/framework/framework.php:642
+#, php-format
+msgid "%d days ago"
+msgstr ""
+
+#: marine/framework/framework.php:645
+msgid "over a year ago"
+msgstr ""
+
+#: marine/framework/framework.php:1201
+msgid "no icon"
+msgstr ""
+
+#: marine/framework/framework.php:1220
+msgid "empty"
+msgstr ""
+
+#: marine/framework/popup.php:51
+msgid "Save"
+msgstr ""
+
+#: marine/framework/popup.php:55
+msgid "Insert Shortcode"
+msgstr ""
+
+#: marine/framework/installer.php:264
+msgid "Updating page builder data."
+msgstr ""
+
+#: marine/framework/installer.php:264
+msgid ""
+"Please reload if you see this notice. It will disapear when the update is "
+"completed."
+msgstr ""
+
+#: marine/framework/control-panel.php:30
+msgid "Style Switcher"
+msgstr ""
+
+#: marine/framework/control-panel.php:33
+msgid "Choose layout"
+msgstr ""
+
+#: marine/framework/control-panel.php:46
+msgid "Choose main color"
+msgstr ""
+
+#: marine/framework/control-panel.php:58
+msgid "Background patterns"
+msgstr ""
+
+#: marine/framework/control-panel.php:60 marine/framework/control-panel.php:78
+msgid "Boxed layout only"
+msgstr ""
+
+#: marine/framework/control-panel.php:76
+msgid "Background images"
+msgstr ""
+
+#: marine/framework/control-panel.php:92
+msgid "Reset to defaults"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:155
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:159
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: marine/framework/custom-menus.php:172
+msgid "sub item"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:204
+msgid "Edit Menu Item"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:220
+msgid "Navigation Label"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:226
+msgid "Title Attribute"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:233
+msgid "Open link in a new window/tab"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:238
+msgid "CSS Classes (optional)"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:244
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:252
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: marine/framework/custom-menus.php:258
+msgid "Move"
+msgstr ""
+
+#: marine/framework/custom-menus.php:259
+msgid "Up one"
+msgstr ""
+
+#: marine/framework/custom-menus.php:260
+msgid "Down one"
+msgstr ""
+
+#: marine/framework/custom-menus.php:263
+msgid "To the top"
+msgstr ""
+
+#: marine/framework/custom-menus.php:279
+msgid "Create Mega Menu for this item"
+msgstr ""
+
+#: marine/framework/custom-menus.php:297
+msgid "Create header from this item"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:319
+msgid "Choose Icon"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:320 marine/framework/custom-menus.php:359
+#: marine/framework/class/ts_extra_taxonomy_fields.class.php:120
+msgid "Remove"
+msgstr ""
+
+#: marine/framework/custom-menus.php:336
+msgid "Mega menu footer content"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/custom-menus.php:346
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: marine/framework/custom-menus.php:360
+msgid "Cancel"
+msgstr ""
+
+#: marine/framework/banner-builder.php:18
+msgid "Add New Banner"
+msgstr ""
+
+#: marine/framework/banner-builder.php:19
+msgid "Edit Banner"
+msgstr ""
+
+#: marine/framework/banner-builder.php:20
+msgid "New Banner"
+msgstr ""
+
+#: marine/framework/banner-builder.php:21
+msgid "All Banners"
+msgstr ""
+
+#: marine/framework/banner-builder.php:22
+msgid "View Banner"
+msgstr ""
+
+#: marine/framework/banner-builder.php:23
+msgid "Search Banners"
+msgstr ""
+
+#: marine/framework/banner-builder.php:24
+msgid "No banners found"
+msgstr ""
+
+#: marine/framework/banner-builder.php:25
+msgid "No banners found in Trash"
+msgstr ""
+
+#: marine/framework/banner-builder.php:27
+msgid "Banners"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:91
+#: marine/framework/class/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:92
+#: marine/framework/class/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:93
+#: marine/framework/class/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: marine/framework/plugins-activation.php:94
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:95
+#: marine/framework/class/class-tgm-plugin-activation.php:200
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:96
+#: marine/framework/class/class-tgm-plugin-activation.php:201
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:97
+#: marine/framework/class/class-tgm-plugin-activation.php:202
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:98
+#: marine/framework/class/class-tgm-plugin-activation.php:203
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:99
+#: marine/framework/class/class-tgm-plugin-activation.php:204
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:100
+#: marine/framework/class/class-tgm-plugin-activation.php:205
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:101
+#: marine/framework/class/class-tgm-plugin-activation.php:206
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:102
+#: marine/framework/class/class-tgm-plugin-activation.php:207
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:103
+#: marine/framework/class/class-tgm-plugin-activation.php:208
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: marine/framework/plugins-activation.php:104
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:105
+#: marine/framework/class/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/plugins-activation.php:106
+#: marine/framework/class/class-tgm-plugin-activation.php:212
+#: marine/framework/class/class-tgm-plugin-activation.php:1965
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: marine/framework/plugins-activation.php:107
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: marine/framework/page-builder.php:61 marine/framework/page-builder.php:106
+msgid "Choose item"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: marine/framework/page-builder.php:118 marine/framework/page-builder.php:154
+msgid "Edit"
+msgstr ""
+
+#: marine/framework/page-builder.php:123 marine/framework/page-builder.php:159
+msgid "Are you sure?"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/page-builder.php:123 marine/framework/page-builder.php:159
+msgid "Delete"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: marine/framework/class/class-tgm-plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: marine/framework/class/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:213
+#: marine/framework/class/class-tgm-plugin-activation.php:1652
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:556
+#: marine/framework/class/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1304
+#: marine/framework/class/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1326
+#: marine/framework/class/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: marine/framework/class/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr ""
+
+#: marine/framework/class/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: marine/framework/class/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2079
+#: marine/framework/class/class-tgm-plugin-activation.php:2088
+msgid "Show Details"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2079
+#: marine/framework/class/class-tgm-plugin-activation.php:2088
+msgid "Hide Details"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2080
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2085
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2089
+msgid "All installations have been completed."
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/class-tgm-plugin-activation.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: marine/framework/class/ShortcodesTinyMcePopup.class.php:92
+msgid "Error or invalid shortcode"
+msgstr ""
+
+#: marine/framework/class/ts_extra_taxonomy_fields.class.php:55
+#: marine/framework/class/ts_extra_taxonomy_fields.class.php:93
+msgid "Order"
+msgstr ""
+
+# @ mk_framework
+#: marine/framework/class/ts_extra_taxonomy_fields.class.php:74
+#: marine/framework/class/ts_extra_taxonomy_fields.class.php:119
+msgid "Upload"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:134
+#: marine/framework/importer/wordpress-importer.php:143
+#: marine/framework/importer/wordpress-importer.php:194
+#: marine/framework/importer/wordpress-importer.php:198
+#: marine/framework/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:511
+#: marine/framework/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: marine/framework/importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: marine/framework/importer/importer.php:46
+msgid "Import completed"
+msgstr ""
+
+#: marine/framework/importer/importer.php:147
+#, php-format
+msgid "File %s not found."
+msgstr ""
+
+#: marine/framework/importer/importer.php:147
+msgid "Import stopped!"
+msgstr ""
+
+#: marine/framework/importer/importer.php:615
+#: marine/framework/importer/importer.php:648
+#: marine/framework/importer/importer.php:706
+#: marine/framework/importer/importer.php:739
+msgid " not found!<br>"
+msgstr ""
+
+#: marine/framework/importer/parsers.php:42
+#: marine/framework/importer/parsers.php:72
+#: marine/framework/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: marine/framework/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: marine/framework/importer/parsers.php:84
+#: marine/framework/importer/parsers.php:89
+#: marine/framework/importer/parsers.php:279
+#: marine/framework/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""

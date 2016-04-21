@@ -1,0 +1,104 @@
+.tp-caption.normal_nelle {
+font-size:120px;
+line-height:60px;
+font-weight:600;
+font-family:"Nella Sue";
+color:rgb(255, 255, 255);
+text-decoration:none;
+text-shadow:rgb(8, 13, 16) 1px 2px 7px;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.black_description_18_italic {
+font-size:18px;
+line-height:31px;
+font-weight:500;
+color:rgb(35, 51, 59);
+font-style:italic;
+text-decoration:none;
+text-shadow:none;
+text-align:left;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.arrowicon {
+line-height:1px;
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
+.tp-caption.big_heavy_60_red {
+color:rgb(234, 111, 94);
+font-size:60px;
+line-height:60px;
+font-weight:900;
+font-family:"Open Sans";
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.big_light_60_dark {
+font-size:60px;
+line-height:67px;
+font-weight:300;
+font-family:"Open Sans";
+color:#23332a;
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.big_extraheavy_60 {
+font-size:82px;
+line-height:60px;
+font-weight:900;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+text-shadow:rgb(8, 13, 16) 1px 2px 7px;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.big_light_60 {
+font-size:60px;
+line-height:67px;
+font-weight:300;
+font-family:"Open Sans";
+color:#ffffff;
+text-decoration:none;
+text-shadow:1px 2px 7px rgba(8, 13, 16, 1);
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.black_description_18 {
+font-size:18px;
+line-height:31px;
+font-weight:500;
+color:rgb(35, 51, 59);
+text-decoration:none;
+text-shadow:none;
+text-align:left;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
