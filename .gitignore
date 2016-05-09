@@ -5,7 +5,7 @@ bin-release/
 
 # Other files and folders
 .settings/
-
+.wp-content/plugings/codecanyon-2751380-slider-revolution-responsive-wordpress-plugin (1).zip
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
